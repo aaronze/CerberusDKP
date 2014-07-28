@@ -1,4 +1,4 @@
-IndubiousDKP
+CerberusDKP
 ============
 
-DKP Utility for the Guild Indubious
+DKP Utility for the Guild Cerberus on Vox
