@@ -1,0 +1,62 @@
+Triky	84	Shaman	Regular Member	A	01/16/14	Grand Guild Hall	Quickee		off	off	0		Quickee	
+Srikandi	100	Druid	Regular Member	A	01/16/14	Grand Guild Hall	Tukang 		off	off	0		Tukang 	
+Shamz	100	Shaman	Regular Member	A	01/16/14	Grand Guild Hall	Wars		off	off	0		Wars	
+Shabiza	42	Wizard	Regular Member	A	01/16/14	Plane of Knowledge			off	off	0			
+Kisokeric	100	Cleric	Officer	A	01/16/14	Grand Guild Hall	Kisokally		off	off	0		Kisokally	
+Iqslow	100	Shaman	Officer	A	01/16/14	Kael Drakkel: The King's Madness	Patchin		off	off	0		Patchin	
+Grimhold	100	Warrior	Regular Member	A	01/16/14	Grand Guild Hall	Silusen		off	off	110411	12/27/13	Silusen	
+Grimheart	100	Cleric	Regular Member	A	01/16/14	Kael Drakkel: The King's Madness	Silusen		off	off	0		Silusen	
+Gnom	100	Magician	Regular Member	A	01/16/14	Grand Guild Hall	Wars		on	on	0		Wars	
+Dithhob	100	Bard	Regular Member	A	01/16/14	Kael Drakkel: The King's Madness	Sharkorrn		off	off	0		Sharkorrn	
+Bigmax	44	Warrior	Regular Member	A	01/16/14	Plane of Knowledge	Vmax		off	off	0		Vmax	
+Apehealer	100	Cleric	Regular Member	A	01/16/14	Grand Guild Hall	Apeman		off	off	0		Apeman	
+Zzynik	100	Magician	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	56597	01/13/14		
+Wenbus	100	Necromancer	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	35169	12/13/13		
+Wars	100	Warrior	Raider		01/16/14	Kael Drakkel: The King's Madness	Faeo's new main		on	on	50000	01/12/14	Faeo's new main	
+Wahldodar	100	Warrior	Senior Officer		01/16/14	Kael Drakkel: The King's Madness	Recruitment / Warrior Class Leader/Paid in gnome lapdances		on	off	180941	09/07/13	Recruitment / Warrior Class Leader/Paid in gnome lapdances	
+Vanthur	100	Cleric	Officer		01/16/14	Grand Guild Hall	DKP		off	off	11014	12/09/13	DKP	
+Vahsa	98	Monk	Regular Member		01/16/14	Kael Drakkel: The King's Madness	Ronale's new main		off	off	15220	04/19/13	Ronale's new main	
+Tukang	100	Wizard	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	58088	10/08/13		
+Traxan	100	Cleric	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	71200	01/05/14		
+Sumbuddy	98	Magician	Regular Member		01/16/14	Shadow Haven			on	off	83	04/25/13		
+Sproc	100	Rogue	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	89866	01/06/14		
+Slimes	100	Shaman	Raider		01/16/14	Grand Guild Hall			on	off	0			
+Simia	100	Ranger	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	26580	01/11/14		
+Silusen	100	Wizard	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	23099	12/07/13		
+Shihan	100	Ranger	Raider		01/16/14	Grand Guild Hall			on	off	278536	01/03/14		
+Ryazlin	100	Magician	Raider		01/16/14	Grand Guild Hall			on	off	386207	01/09/14		
+Rimok	100	Berserker	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	124651	01/09/14		
+Rangerx	100	Ranger	Officer		01/16/14	Kael Drakkel: The King's Madness	Raid Officer / Lewt		on	off	106332	12/10/12	Raid Officer / Lewt	
+Rages	100	Berserker	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	0			
+Quickee	100	Rogue	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	113845	12/01/13		
+Qilion	100	Enchanter	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	113343	12/27/13		
+Purrz	100	Shaman	Pledges		01/16/14	Kael Drakkel: The King's Madness	Started Trial 1/1/14		off	off	70275	01/12/14	Started Trial 1/1/14	
+Prometheeus	100	Magician	Officer		01/16/14	Kael Drakkel: The King's Madness			on	off	313821	10/23/13		
+Patchin	100	Cleric	Co - Leader		01/16/14	Kael Drakkel: The King's Madness	Raid Leader / Cleric Class Leader		off	off	27582	10/02/12	Raid Leader / Cleric Class Leader	
+Needarez	86	Cleric	Pledges		01/16/14	Kaladim	Started Trial 8/29/13		off	off	0		Started Trial 8/29/13	
+Mistas	100	Cleric	Raider		01/16/14	Kael Drakkel: The King's Madness	Jalelorf's wife		off	off	0		Jalelorf's wife	
+Minishot	100	Ranger	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	0			
+Mesut	100	Monk	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	26877	01/10/14		
+Mayfaire	100	Warrior	Senior Officer		01/16/14	Kael Drakkel: The King's Madness	Recruitment / Wahl's bodyguard / DKP		on	off	333803	01/12/14	Recruitment / Wahl's bodyguard / DKP	
+Lonora	100	Bard	Senior Officer		01/16/14	Kael Drakkel: The King's Madness	Raid Leader		on	off	41972	12/12/13	Raid Leader	
+Koin	86	Beastlord	Pledges		01/16/14	Plane of Knowledge	Started Trial 1/5/14		on	off	1830	01/13/14	Started Trial 1/5/14	
+Kisokally	100	Paladin	Leader		01/16/14	Kael Drakkel: The King's Madness	Raid Leader		on	on	520074	12/26/13	Raid Leader	
+Kikkazz	100	Shadow Knight	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	309231	11/15/13		
+Kavita	100	Necromancer	Raider		01/16/14	Erudin Burning			off	off	0			
+Katscar	100	Shaman	Raider		01/16/14	Erudin Burning			on	off	0			
+Jalelorf	100	Warrior	Raider		01/16/14	Kael Drakkel: The King's Madness	Mista's hubby		off	off	39973	11/30/13	Mista's hubby	
+Ixion	100	Ranger	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	0			
+Gheraden	100	Shaman	Raider		01/16/14	Kael Drakkel: The King's Madness			on	off	0			
+Floosh	100	Magician	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	1210975	01/16/14		
+Elanor	100	Ranger	Officer		01/16/14	Kael Drakkel: The King's Madness			on	off	65826	12/28/13		
+Cristy	100	Cleric	Raider		01/16/14	Grand Guild Hall			on	off	14175	01/30/13		
+Clarg	100	Monk	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	734353	01/16/14		
+Chopp	100	Monk	Pledges		01/16/14	Kael Drakkel: The King's Madness	Started Trial 12/27/13		on	off	17705	01/10/14	Started Trial 12/27/13	
+Chalupabatman	100	Berserker	Officer		01/16/14	Kael Drakkel: The King's Madness	Ogre King		on	on	19763	05/26/13	Ogre King	
+Brenthion	100	Warrior	Raider		01/16/14	Grand Guild Hall			off	off	153176	09/13/13		
+Boomshot	100	Shadow Knight	Pledges		01/16/14	Kael Drakkel: The King's Madness	Started Trial 1/15/14		off	off	0		Started Trial 1/15/14	
+Bearfight	100	Bard	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	116342	12/18/13		
+Beamer	93	Magician	Pledges		01/16/14	East Wastes: Zeixshi-Kar's Awakening	Started trial 1/15/14		off	off	0		Started trial 1/15/14	
+Balenda	100	Shaman	Raider		01/16/14	Grand Guild Hall			on	off	165647	10/11/13		
+Apeman	100	Warrior	Raider		01/16/14	Kael Drakkel: The King's Madness			off	off	2523	09/17/13		
+Shabaz	100	Beastlord	Regular Member		01/16/14	Kael Drakkel: The King's Madness								

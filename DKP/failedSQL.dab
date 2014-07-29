@@ -1,0 +1,66 @@
+/Tell Aledark MAIN MENU	| 1. DKP Menu	| 2. My Preferences	| 3. Raid Loot	| 4. Manage User Access	| 5. Raidbot Control
+v:0;
+id:0;
+Type	SQL
+Query	SELECT SUM(item_value) 
+FROM ( SELECT * FROM eqdkp20_members WHERE member_name='Yoohoo' ) S 
+INNER JOIN eqdkp20_items 
+ON S.member_id=eqdkp20_items.member_id;
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Sky Watcher's Monocle', 218, 306, 8, 1403730688, 'Raidbot', '34641e0734b610193d499a1645f66ee0', 1);
+Query	SELECT SUM(item_value) 
+FROM ( SELECT * FROM eqdkp20_members WHERE member_name='Grottnikk' ) S 
+INNER JOIN eqdkp20_items 
+ON S.member_id=eqdkp20_items.member_id;
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Starrla's Cloudy Pink Scepter of Veeshan', 66, 312, 13, 1403922202, 'Raidbot', '76a383993a0d31e2049170162d7eb6a0', 1);
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Niteshaid's Earring of Undying Love', 113, 318, 50, 1404012891, 'Raidbot', 'e61857096875a9da44f3427e8e804519', 1);
+Query	SELECT SUM(item_value) 
+FROM ( SELECT * FROM eqdkp20_members WHERE member_name='Coglahob' ) S 
+INNER JOIN eqdkp20_items 
+ON S.member_id=eqdkp20_items.member_id;
+Query	SELECT member_id FROM eqdkp20_members WHERE member_name='Rullu';
+Query	SELECT member_class_id FROM eqdkp20_members WHERE member_name='Aradea';
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Brithrax's Rock of Crushing', 33, 339, 25, 1404364074, 'Raidbot', 'e1ee735ffe724a31dd6d36beaba1c1af', 1);
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Normando's Boots of Insanity', 62, 339, 42, 1404364137, 'Raidbot', 'cd7243ab4c664fd021c53ddcf1037240', 1);
+Query	SELECT member_class_id FROM eqdkp20_members WHERE member_name='Chalupabatman';
+Query	SELECT member_level FROM eqdkp20_members WHERE member_name='Chalupabatman';
+Query	SELECT member_class_id FROM eqdkp20_members WHERE member_name='Fienglagin';
+Query	SELECT SUM(raid_value) 
+FROM ( SELECT * FROM eqdkp20_members WHERE member_name='Foxxie' ) S 
+INNER JOIN eqdkp20_raid_attendees 
+ON S.member_id=eqdkp20_raid_attendees.member_id 
+INNER JOIN eqdkp20_raids
+ON eqdkp20_raid_attendees.raid_id=eqdkp20_raids.raid_id;
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Dzarn's Cord of Velocity', 43, 339, 50, 1404364230, 'Raidbot', '38fbaf0a31b96b6dc70f99efc23dfafa', 1);
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Windraider's Belt', 201, 358, 10, 1404765421, 'Raidbot', '4f2fd631cec3840fa64819a1aa1c84c2', 1);
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Reaper's Ring', 106, 372, 5, 1404959032, 'Raidbot', '3c255435c779b0aa98fc5e60b6fd47c9', 1);
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Reaper's Ring', 212, 372, 5, 1404959035, 'Raidbot', '219f2b93d17c766edf343e6b8495c509', 1);
+Query	SELECT SUM(item_value) 
+FROM ( SELECT * FROM eqdkp20_members WHERE member_name='Shiknew' ) S 
+INNER JOIN eqdkp20_items 
+ON S.member_id=eqdkp20_items.member_id;
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Ellyra's Necklace of Wonder', 126, 374, 35, 1404967229, 'Raidbot', '6a09537d125303414bf92efbe290d4e8', 1);
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Radvar's Rod of Disruption', 32, 374, 15, 1404967311, 'Raidbot', 'c0bd6bba6979f54d778dd559ee02c515', 1);
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Elegist's Boots of the Hushed', 61, 375, 42, 1404967390, 'Raidbot', 'aeb2000bd367c21f69ef7581c5c33e0d', 1);
+Query	SELECT COUNT(raid_value) 
+FROM ( SELECT * FROM eqdkp20_members WHERE member_name='Meaculpas' ) S 
+INNER JOIN eqdkp20_raid_attendees 
+ON S.member_id=eqdkp20_raid_attendees.member_id 
+INNER JOIN eqdkp20_raids
+ON eqdkp20_raid_attendees.raid_id=eqdkp20_raids.raid_id AND eqdkp20_raids.raid_date > 1402547754;
+Query	SELECT COUNT(raid_id) FROM eqdkp20_raids WHERE eqdkp20_raids.raid_date > 1402547759;
+Query	SELECT member_id FROM eqdkp20_members WHERE member_name='Vithar';
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Qulas' Fiery Katar of Insanity', 33, 386, 25, 1405144758, 'Raidbot', '96740787f941f4ba523ac9b46e6f136c', 1);
+Query	SELECT SUM(item_value) 
+FROM ( SELECT * FROM eqdkp20_members WHERE member_name='Foxxie' ) S 
+INNER JOIN eqdkp20_items 
+ON S.member_id=eqdkp20_items.member_id;
+Query	SELECT SUM(raid_value) 
+FROM ( SELECT * FROM eqdkp20_members WHERE member_name='Ryazlin' ) S 
+INNER JOIN eqdkp20_raid_attendees 
+ON S.member_id=eqdkp20_raid_attendees.member_id 
+INNER JOIN eqdkp20_raids
+ON eqdkp20_raid_attendees.raid_id=eqdkp20_raids.raid_id;
+Query	SELECT MAX(raid_id) FROM eqdkp20_raids;
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Verlekarnorm's Horn of Disaster', 9, 386, 50, 1405152375, 'Raidbot', '568b98e82597764310af0a2743c4bdb9', 1);
+Statement	INSERT HIGH_PRIORITY INTO eqdkp20_items (item_name, member_id, raid_id, item_value, item_date, item_added_by, item_group_key, itempool_id) VALUES ('Verlekarnorm's Horn of Disaster', 9, 386, 50, 1405152778, 'Raidbot', 'ec87cab445f19d8edcadafdd6bdc5371', 1);
+
