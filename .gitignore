@@ -4,6 +4,7 @@
 *.jar
 *.war
 *.ear
+*.class
 
 DKP/nbproject/
 DKP/build/
