@@ -5,6 +5,6 @@
 *.war
 *.ear
 
-nbproject/
-build/
-dist/
+DKP/nbproject/
+DKP/build/
+DKP/dist/
