@@ -1,0 +1,677 @@
+Aaeman	85	Enchanter	Member	A	05/30/14		Restlin's Alt		off	off	0		Restlin's Alt	
+Aallail	100	Enchanter	Member		05/28/14		Main		off	off	0		Main	
+Abraxus	85	Druid	Member	A	06/01/14		Gnipsy's Alt		off	off	0		Gnipsy's Alt	
+Absconder	81	Rogue	Member	A	07/26/14		Quickquack's Alt		off	off	0		Quickquack's Alt	
+Aegin	90	Beastlord	Recruit/family	A	07/29/14		Woaden's alt		off	off	0		Woaden's alt	
+Aenea	96	Ranger	Member		07/17/14		Main		off	off	0		Main	
+Afire	86	Wizard	Member	A	07/29/14		Alive's Alt		off	off	0		Alive's Alt	
+Agik	100	Berserker	Raider		07/30/14	Grand Guild Hall	Main		off	off	150952	07/29/14	Main	
+Agorus	75	Ranger	Member	A	06/26/14		Zzynik Alt, aka Gimp Ass		off	off	0		Zzynik Alt, aka Gimp Ass	
+Aiwendi	100	Wizard	Member		07/29/14		Main, T2		off	off	3649	06/12/14	Main, T2	
+Alatar	90	Wizard	Member	A	07/29/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Albinola	85	Wizard	Member	A	07/29/14		Lilliamae's Alt		off	off	0		Lilliamae's Alt	
+Aledark	100	Bard	Senior Officer	A	07/29/14		Main, T2b, Brendan Frasier, Boston Bruins superfan		on	on	1558077	07/08/14	Main, T2b, Brendan Frasier, Boston Bruins superfan	
+Alethief	85	Rogue	Member	A	07/20/14		aledark's alt		off	off	0		aledark's alt	
+Alice	100	Cleric	Recruit/family	A	07/28/14		kiso alt		off	off	0		kiso alt	
+Alieshe	100	Shaman	Member	A	07/28/14	Grand Guild Hall	Gargonaut's Buffbot		off	off	0		Gargonaut's Buffbot	
+Alive	100	Cleric	Raider		07/30/14	Plane of Knowledge	Main, T2		on	off	16730	07/13/14	Main, T2	
+Allupin	100	Shadow Knight	Member		07/12/14		Main		off	off	0		Main	
+Althis	100	Magician	Member		06/19/14		Main, T2 Pretend Wizard		on	on	0		Main, T2 Pretend Wizard	
+Amphiox	94	Necromancer	Member		07/20/14		Main		off	off	0		Main	
+Andreii	100	Shadow Knight	Raider		07/29/14		Main, T2b		on	on	3950000	07/29/14	Main, T2b	
+Angeltease	100	Druid	Member		06/01/14		Main		off	off	0		Main	
+Anjay	100	Rogue	Member		05/25/14		Main, Samten fiances and Lenia Sister		off	off	0		Main, Samten fiances and Lenia Sister	
+Anotic	100	Shaman	Member	A	06/09/14		Klauss's Alt		off	off	0		Klauss's Alt	
+Anthrax	100	Necromancer	Recruit/family		07/30/14	Chardok	Main, Started Trial 7/5/14 Nancy Boy		on	off	0		Main, Started Trial 7/5/14 Nancy Boy	
+Apehealer	100	Cleric	Member	A	07/28/14		Apeman's Alt		off	off	48	07/06/14	Apeman's Alt	
+Apeman	100	Warrior	Raider		07/30/14		Main, T2b, swordmaster, weaponmaster		on	on	0		Main, T2b, swordmaster, weaponmaster	
+Aphrodisiah	90	Magician	Officer	A	07/10/14		Foxxie's Alt		off	off	0		Foxxie's Alt	
+Aradea	100	Druid	Officer		07/19/14		Main, T2b, Cerberus' Pitbull		on	off	41193	06/13/14	Main, T2b, Cerberus' Pitbull	
+Aragore	93	Cleric	Recruit/family		07/22/14		Main, Started Trial  7/5/14		off	off	0		Main, Started Trial  7/5/14	
+Argent	100	Paladin	Officer		07/26/14		Main, T2b, Pink Power Ranger and Brony		on	off	41105	05/10/14	Main, T2b, Pink Power Ranger and Brony	
+Arkavos	84	Ranger	Member	A	05/24/14		Ogon's Alt		off	off	0		Ogon's Alt	
+Armorette	56	Enchanter	Officer	A	07/07/14		Foxxie's Baby Alt		off	off	0		Foxxie's Baby Alt	
+Arzul	100	Warrior	Member		07/28/14		Main, Too pretty to tank		off	off	44513	06/09/14	Main, Too pretty to tank	
+Ashka	22	Paladin	Member	A	07/01/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Ativan	100	Cleric	Officer	A	07/29/14		Gargonaut's Alt		on	on	0		Gargonaut's Alt	
+Auriana	86	Magician	Officer	A	05/09/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Aydrean	94	Paladin	Member		06/18/14		Main		off	off	0		Main	
+Aylan	85	Wizard	Member	A	07/28/14		lenae's alt		off	off	0		lenae's alt	
+Baledin	96	Warrior	Member	A	07/28/14		Macho's Alt		off	off	0		Macho's Alt	
+Baloo	100	Cleric	Raider		07/22/14		Main, T2b		off	off	0		Main, T2b	
+Banya	100	Warrior	Member		07/21/14		Main		off	off	0		Main	
+Barq	100	Ranger	Member	A	07/28/14		Molases Alt		off	off	0		Molases Alt	
+Barriane	92	Shadow Knight	Member	A	05/13/14		Rcalhealer's Alt		off	off	7974	05/13/14	Rcalhealer's Alt	
+Barron	75	Wizard	Member	A	07/22/14		Dung's Alt		off	off	0		Dung's Alt	
+Bassuri	54	Shaman	Member	A	07/23/14		Opur's Alt		off	off	0		Opur's Alt	
+Beasted	85	Beastlord	Member	A	05/09/14		Zoratham's Alt		off	off	0		Zoratham's Alt	
+Bekonsat	85	Necromancer	Recruit/family		07/30/14		Main, Started Trial 7/19/14		off	off	32709	07/28/14	Main, Started Trial 7/19/14	
+Beldeth	93	Cleric	Member	A	06/30/14		Stedd's Alt		off	off	0		Stedd's Alt	
+Bellakitty	78	Druid	Member	A	05/13/14		Rcalhealer's Alt		off	off	0		Rcalhealer's Alt	
+Bellum	100	Cleric	Raider		07/29/14		Main, T2b		off	off	13475	07/24/14	Main, T2b	
+Bendi	100	Rogue	Member		05/18/14		Main		off	off	0		Main	
+Betheny	52	Wizard	Member	A	07/24/14		Stephanie's Alt		off	off	0		Stephanie's Alt	
+Biggy	94	Magician	Member		07/16/14		Main		off	off	0		Main	
+Bitterapple	92	Druid	Member	A	07/27/14		Flamlick's Alt		off	off	0		Flamlick's Alt	
+Blasterman	100	Wizard	Member	A	07/30/14		Apeman's Alt		off	off	0		Apeman's Alt	
+Blelak	98	Wizard	Member	A	06/29/14		Lonthin's Alt		off	off	0		Lonthin's Alt	
+Bloodflow	89	Shadow Knight	Member	A	06/13/14		Darknote's Alt		off	off	0		Darknote's Alt	
+Blueburn	80	Magician	Member	A	07/28/14		Molases' Alt		off	off	0		Molases' Alt	
+Bluebutt	92	Magician	Member	A	06/29/14		Sneakytoon's Alt		off	off	0		Sneakytoon's Alt	
+Blumpkin	90	Shadow Knight	Member		07/13/14		Main		off	off	0		Main	
+Boggrol	89	Shaman	Recruit/family	A	06/15/14		Ramakin's Alt, Started Trial 5/31/14		off	off	0		Ramakin's Alt, Started Trial 5/31/14	
+Bonedry	92	Necromancer	Member	A	07/29/14		Ragnoruuk's Alt		off	off	0		Ragnoruuk's Alt	
+Boogalooga	100	Shaman	Senior Officer	A	07/29/14		Aledark's Alt, T2		on	on	0		Aledark's Alt, T2	
+Bordolor	91	Paladin	Member		07/29/14		Main		off	off	0		Main	
+Borgesh	100	Cleric	Member		07/29/14		Main, T2b, I Heal Paladins		on	on	154180	07/20/14	Main, T2b, I Heal Paladins	
+Bowfingers	72	Ranger	Member	A	05/31/14		Fizzlebutt's Alt		off	off	0		Fizzlebutt's Alt	
+Brackois	78	Rogue	Recruit/family		07/14/14		Main, Started Trial 7/5/14		off	off	0		Main, Started Trial 7/5/14	
+Brianca	97	Rogue	Officer	A	07/19/14		Aradea's Alt		off	off	21856	05/25/14	Aradea's Alt	
+Brigariel	85	Beastlord	Member		05/09/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Brisco	66	Enchanter	Member	A	06/01/14		Lostin's Alt		off	off	0		Lostin's Alt	
+Bromen	86	Enchanter	Member	A	06/01/14		Revv's Alt		off	off	0		Revv's Alt	
+Broof	65	Warrior	Member	A	06/05/14		Creek's Alt		off	off	0		Creek's Alt	
+Bruceleezardo	82	Monk	Member	A	05/28/14		Dethcomestoyou's Alt		off	off	0		Dethcomestoyou's Alt	
+Bubbaclubba	89	Warrior	Member	A	07/20/14		Deadcorpse's Alt		off	off	0		Deadcorpse's Alt	
+Buffinator	100	Beastlord	Member	A	07/29/14		Gargonaut's Buffbot		off	off	0		Gargonaut's Buffbot	
+Bugbreath	88	Shadow Knight	Member	A	07/25/14		Hadlan's alt		on	off	0		Hadlan's alt	
+Bulgrum	100	Necromancer	Member		07/13/14		Main		off	off	0		Main	
+Butlaor	16	Beastlord	Member	A	07/22/14		linor's alt		off	off	0		linor's alt	
+Butor	95	Shaman	Member	A	07/30/14		Coglahob's Alt		off	off	0		Coglahob's Alt	
+Caeldran	97	Magician	Member		07/01/14		Main		off	off	0		Main	
+Cakhmaim	100	Monk	Raider		07/21/14		Main, T2,  Ironfist		off	off	17973	05/15/14	Main, T2,  Ironfist	
+Camire	79	Shaman	Recruit/family		07/23/14		Main, Started Trial 7/17/14		off	off	177	07/21/14	Main, Started Trial 7/17/14	
+Cancellation	100	Shadow Knight	Member		06/12/14		Main		off	off	0		Main	
+Canttank	62	Warrior	Member	A	07/29/14		Fizzleking's Alt		off	off	0		Fizzleking's Alt	
+Caron	100	Magician	Member	A	07/25/14		Bellum's Alt		off	off	0		Bellum's Alt	
+Cenglagar	100	Ranger	Raider		07/22/14		Main, T2b		on	off	0		Main, T2b	
+Cerekk	100	Warrior	Member		07/30/14		Main		on	off	80550	07/03/14	Main	
+Chalupabatman	100	Berserker	Officer		07/30/14		Main, T2b, Loves big axes and long walks along the beach		on	on	90000	07/23/14	Main, T2b, Loves big axes and long walks along the beach	
+Chalupizzle	85	Shaman	Member	A	07/01/14		Chalupabatman's alt		off	off	0		Chalupabatman's alt	
+Cheery	100	Wizard	Member	A	07/04/14		Vagabond's Alt		off	off	0		Vagabond's Alt	
+Chirinde	85	Beastlord	Member	A	07/10/14		Angeltease's Alt		off	off	0		Angeltease's Alt	
+Chironex	98	Shadow Knight	Member	A	07/15/14		Vithar's Alt		off	off	0		Vithar's Alt	
+Clenger	78	Ranger	Member	A	05/16/14		Clensk's Alt		off	off	0		Clensk's Alt	
+Clensk	100	Shadow Knight	Member		07/24/14		Main		off	off	0		Main	
+Clenzerker	96	Berserker	Member	A	07/22/14		clen's alt		off	off	0		clen's alt	
+Clerik	100	Cleric	Member	A	07/29/14		Wars' Alt, T2b		off	off	0		Wars' Alt, T2b	
+Coglahob	100	Magician	Raider		07/30/14		Main, T2		on	on	37172	06/01/14	Main, T2	
+Coil	100	Necromancer	Raider		06/27/14		Main		on	off	0		Main	
+Cokey	85	Bard	Member	A	07/13/14		Blumpkin's Alt		off	off	0		Blumpkin's Alt	
+Collosis	100	Warrior	Senior Officer		07/22/14		Main		off	off	0		Main	
+Compound	100	Ranger	Member		07/09/14		Main		off	off	48452	06/04/14	Main	
+Cortan	100	Wizard	Member	A	07/29/14		Yoohoo's Alt, T2		on	off	0		Yoohoo's Alt, T2	
+Creek	96	Druid	Officer		07/29/14		Main, Housekeeping (only)		off	off	0		Main, Housekeeping (only)	
+Ctutcik	92	Shaman	Member	A	07/20/14		Stedd's Alt		off	off	0		Stedd's Alt	
+Cumber	100	Monk	Member		07/01/14		Main		off	off	0		Main	
+Cyberdyne	2	Wizard	Senior Officer	A	07/23/14		Aledark's alt		off	off	0		Aledark's alt	
+Cynnamon	33	Druid	Member		07/30/14		Main		off	off	0		Main	
+Cyrill	91	Wizard	Member	A	07/24/14		Nephilims's Alt		off	off	0		Nephilims's Alt	
+Daabur	100	Paladin	Member		05/29/14		Main		off	off	0		Main	
+Dafor	55	Berserker	Member	A	07/30/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Dakan	100	Ranger	Raider		07/30/14	The Dead Hills	Main, T2		off	on	0		Main, T2	
+Damevaako	100	Necromancer	Member		07/05/14		Main		off	off	0		Main	
+Dancein	100	Bard	Member	A	07/14/14		Wendyyen's Alt		off	off	0		Wendyyen's Alt	
+Darknote	92	Bard	Member		06/25/14		Main		off	off	0		Main	
+Darthin	100	Cleric	Member	A	07/27/14		Faladern's Alt, T2		off	off	0		Faladern's Alt, T2	
+Darubious	100	Necromancer	Senior Officer		06/23/14		Main, T2, Doobie from Harry potter, The Secret Anon-Police, he steals your missing socks in your house		on	off	123483	06/18/14	Main, T2, Doobie from Harry potter, The Secret Anon-Police, he steals your missing socks in your house	
+Deadcorpse	100	Necromancer	Raider		07/30/14	The Dead Hills	Main, T2		on	on	67430	06/09/14	Main, T2	
+Deezz	66	Cleric	Recruit/family	A	07/28/14		anthrax's alt		off	off	0		anthrax's alt	
+Deimasa	100	Shaman	Member	A	07/15/14		Shaolina's Alt		off	off	0		Shaolina's Alt	
+Deinara	20	Wizard	Member	A	07/01/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Dena	61	Bard	Member	A	07/10/14		Kalamin's Alt		off	off	0		Kalamin's Alt	
+Dethcomestoyou	100	Magician	Member		07/19/14		Main		off	off	0		Main	
+Detonator	100	Shaman	Member	A	07/29/14		Apeman's Alt		off	off	0		Apeman's Alt	
+Dinguss	97	Necromancer	Member		05/16/14		Main		off	off	0		Main	
+Dinnernapkin	100	Enchanter	Member		07/15/14		Main		off	off	0		Main	
+Dirtty	100	Enchanter	Officer	A	07/30/14		Argent's Alt, T2		off	off	0		Argent's Alt, T2	
+Dirtydeedz	63	Druid	Member		05/12/14		Main		off	off	0		Main	
+Dithhob	100	Bard	Member	A	07/29/14		Chalupabatman's Alt		off	off	0		Chalupabatman's Alt	
+Djdomie	100	Bard	Member		07/02/14		Main		off	off	0		Main	
+Dominati	89	Enchanter	Member		06/30/14		Main		off	off	0		Main	
+Dondogo	100	Shadow Knight	Member	A	05/24/14		Ogon's Alt		off	off	0		Ogon's Alt	
+Donimin	92	Berserker	Member	A	07/28/14		Kekor's Alt		off	off	0		Kekor's Alt	
+Doopsack	85	Bard	Member	A	07/01/14		Joho's Alt		off	off	0		Joho's Alt	
+Dotsy	94	Necromancer	Member	A	05/29/14		Magicl's Alt		off	off	0		Magicl's Alt	
+Dragoncharm	93	Berserker	Member	A	07/04/14		Cumber's Alt		off	off	0		Cumber's Alt	
+Drakkie	100	Ranger	Member		07/30/14		Main, T2		off	off	0		Main, T2	
+Drakthar	100	Shadow Knight	Raider		07/26/14		Main, T2b		on	off	67436	05/09/14	Main, T2b	
+Drakthen	100	Wizard	Member	A	07/06/14		Drakthar's Alt		off	off	0		Drakthar's Alt	
+Drayluin	28	Ranger	Recruit/family		06/12/14		Main, Started Trial 6/11/14		off	off	0		Main, Started Trial 6/11/14	
+Drizzits	100	Ranger	Member	A	07/30/14		Coglahob's Alt		off	off	25496	05/27/14	Coglahob's Alt	
+Drolian	88	Necromancer	Member		07/27/14		Main		off	off	16563	07/27/14	Main	
+Droodad	95	Druid	Member	A	06/14/14		Dethcomestoyou's Alt		off	off	0		Dethcomestoyou's Alt	
+Droppy	100	Warrior	Member		07/06/14		Main		off	off	0		Main	
+Dross	100	Necromancer	Officer	A	07/30/14	Argin-Hiz	Shiknew's Alt, T2		on	off	0		Shiknew's Alt, T2	
+Druad	100	Druid	Senior Officer		06/22/14		Main, T2, Raidbot's Slave Driver & Argent's Boyfriend		off	off	0		Main, T2, Raidbot's Slave Driver & Argent's Boyfriend	
+Drugdealer	86	Enchanter	Member	A	06/12/14		Sneakytoon's Alt		off	off	0		Sneakytoon's Alt	
+Dung	100	Shadow Knight	Member		06/30/14		Main		off	off	4344	05/18/14	Main	
+Dunin	100	Berserker	Officer	A	06/30/14		Vithar's Alt		off	off	20123	06/04/14	Vithar's Alt	
+Durran	100	Berserker	Member	A	07/29/14		Yoohoo's Alt		off	off	0		Yoohoo's Alt	
+Duuki	92	Paladin	Member	A	06/20/14		Slimes's Alt		off	off	0		Slimes's Alt	
+Eaeile	95	Enchanter	Member	A	07/30/14		Cog's Alt		off	off	0		Cog's Alt	
+Ebonezer	100	Rogue	Raider		07/29/14		Main, T2 ebonjeeezer, ebongeezer		on	on	8298	05/10/14	Main, T2 ebonjeeezer, ebongeezer	
+Eboshi	100	Bard	Raider		07/26/14		Main, T2, Rockstar		off	off	0		Main, T2, Rockstar	
+Eiluvial	91	Cleric	Member		05/31/14		Main		off	off	0		Main	
+Einamyen	90	Cleric	Member	A	07/29/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Elanor	100	Ranger	Officer		07/13/14		Main, T2, Aussie, pvp champion		off	off	0		Main, T2, Aussie, pvp champion	
+Elusion	96	Enchanter	Member		07/29/14		Main		off	off	0		Main	
+Emouchet	72	Shaman	Member		05/28/14		Main		off	off	0		Main	
+Enchexten	66	Enchanter	Member	A	07/28/14		Fizzleking's Alt		off	off	0		Fizzleking's Alt	
+Enterri	96	Berserker	Member		07/15/14		Main		off	off	0		Main	
+Epipelagic	52	Warrior	Member	A	07/12/14		Blumpkin's Alt		off	off	0		Blumpkin's Alt	
+Ermahgerdd	18	Warrior	Member	A	05/09/14		Vilmont's Alt		off	off	0		Vilmont's Alt	
+Etheria	95	Enchanter	Recruit/family		07/29/14		Main, Started Trial 7/12/14		off	off	0		Main, Started Trial 7/12/14	
+Eudar	100	Magician	Member	A	06/28/14		Chalupabatman's Alt		off	off	0		Chalupabatman's Alt	
+Evian	100	Monk	Raider		07/30/14	Nagafen's Lair	Main, T2b, AKA ducktape artist		on	on	113772	05/27/14	Main, T2b, AKA ducktape artist	
+Eviltimez	63	Magician	Member	A	05/12/14		Dirtydeedz's Alt		off	off	0		Dirtydeedz's Alt	
+Eximious	60	Shaman	Member	A	05/14/14		Creek's Alt		off	off	0		Creek's Alt	
+Fairypants	85	Magician	Member	A	07/01/14		Argent's alt		off	off	0		Argent's alt	
+Faladern	100	Wizard	Raider		07/28/14		Main, T2b, Rcalielie's Hubby 		off	off	0		Main, T2b, Rcalielie's Hubby 	
+Faladurn	100	Enchanter	Member	A	07/27/14		Faladern's Alt		off	off	0		Faladern's Alt	
+Famunda	95	Magician	Member	A	07/11/14		Vithar's Alt		off	off	0		Vithar's Alt	
+Fapshow	100	Cleric	Member	A	07/30/14	The Guild Lobby	Gargonaut's Alt		off	off	0		Gargonaut's Alt	
+Farandor	85	Warrior	Member		07/14/14		Main		off	off	0		Main	
+Feglalgon	12	Necromancer	Member	A	07/26/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Felder	100	Magician	Officer	A	07/28/14		Gargonaut's Alt		off	off	0		Gargonaut's Alt	
+Fialla	92	Necromancer	Member	A	07/24/14		Fien's Alt		off	off	0		Fien's Alt	
+Fienglagin	100	Monk	Raider		07/29/14		Main, T2b, knows kung fu		on	off	100	06/21/14	Main, T2b, knows kung fu	
+Fierced	93	Ranger	Recruit/family		07/29/14		Main, Started Trial 6/19/14		on	off	5847	07/19/14	Main, Started Trial 6/19/14	
+Fifty	100	Necromancer	Member	A	07/29/14		Zibs's Alt		off	off	0		Zibs's Alt	
+Fionne	100	Wizard	Member	A	07/27/14		Megumibish's Alt		on	off	0		Megumibish's Alt	
+Fistalin	100	Magician	Member	A	05/28/14		Aallain's Alt		off	off	0		Aallain's Alt	
+Fisumbena	100	Magician	Member	A	07/28/14		Lalolas's Alt		off	off	0		Lalolas's Alt	
+Fizzlebutt	97	Magician	Member		05/30/14		Main		off	off	0		Main	
+Fizzlecrotch	53	Wizard	Recruit/family	A	07/27/14		Anthrax alt		off	off	0		Anthrax alt	
+Fizzleking	100	Magician	Raider		07/30/14	Grand Guild Hall	Main		on	off	606	07/09/14	Main	
+Flamelick	100	Necromancer	Member		07/27/14		Main		off	off	0		Main	
+Flaminhot	96	Magician	Member	A	07/14/14		Kekor's Alt		off	off	0		Kekor's Alt	
+Flanders	100	Rogue	Member	A	07/22/14		Nirus's Alt		off	off	39286	06/05/14	Nirus's Alt	
+Fleshnight	70	Shadow Knight	Member	A	07/28/14		Fizzleking's Alt		off	off	0		Fizzleking's Alt	
+Floosh	100	Magician	Member		07/29/14	Kael Drakkel: The King's Madness	Main, T2		off	off	716	05/17/14	Main, T2	
+Fomor	92	Warrior	Member		06/03/14		Main		off	off	0		Main	
+Fonjin	85	Wizard	Member	A	06/15/14		Roheart's Alt		off	off	0		Roheart's Alt	
+Foxxie	100	Beastlord	Officer		07/28/14		Main, T2b, Recruiting Officer		on	on	54039	07/13/14	Main, T2b, Recruiting Officer	
+Frostty	96	Berserker	Member		06/14/14		Main, Started Trial 5/24/14		on	off	0		Main, Started Trial 5/24/14	
+Fuzzion	100	Wizard	Recruit/family	A	06/27/14		Ramaken's Alt, Started Trial 5/31/14		off	off	0		Ramaken's Alt, Started Trial 5/31/14	
+Gahis	59	Shaman	Member		06/20/14		Main		off	off	0		Main	
+Galrohm	89	Rogue	Recruit/family		07/29/14		Main, Started Trial 7/17/14		off	off	0		Main, Started Trial 7/17/14	
+Ganlas	47	Druid	Member	A	07/28/14		Satrik's Alt		off	off	0		Satrik's Alt	
+Gargonaut	100	Warrior	Officer	A	07/30/14	Ethernere Tainted West Karana	Methadone's Alt, T2, Call me Gargle-nuts		off	on	68990	06/25/14	Methadone's Alt, T2, Call me Gargle-nuts	
+Gauvin	73	Warrior	Member	A	05/28/14		Emouchet's Alt		off	off	0		Emouchet's Alt	
+Ghastly	89	Shaman	Member	A	07/05/14		Amphiox's Alt		off	off	0		Amphiox's Alt	
+Gherx	100	Necromancer	Member		07/14/14		Main		off	off	0		Main	
+Giglalen	91	Ranger	Member	A	07/14/14		Cenglagar's Alt		off	off	0		Cenglagar's Alt	
+Gilman	90	Beastlord	Recruit/family		07/29/14		Main, Started Trial 7/8/14		off	off	0		Main, Started Trial 7/8/14	
+Gilye	87	Beastlord	Member	A	07/01/14		Cumber's Alt		off	off	0		Cumber's Alt	
+Gladriel	93	Druid	Member	A	07/30/14		Coglahob's Alt		off	off	0		Coglahob's Alt	
+Gnarghoul	93	Beastlord	Member		07/02/14		Main		off	off	0		Main	
+Gnipsy	85	Magician	Member		06/01/14		Main		off	off	0		Main	
+Gnom	100	Magician	Member	A	07/29/14		Wars' Alt		off	off	0		Wars' Alt	
+Goglehob	100	Bard	Member		07/30/14		Coglahob's alt		off	off	0		Coglahob's alt	
+Gone	100	Bard	Member		06/12/14		Main		off	off	0		Main	
+Grange	90	Shaman	Member	A	07/13/14		Blumpkin's Alt		off	off	0		Blumpkin's Alt	
+Grapegrape	68	Shaman	Member	A	07/14/14		Roraki's Alt		off	off	0		Roraki's Alt	
+Gribbi	100	Berserker	Member		07/30/14		Main		off	off	0		Main	
+Gronash	100	Magician	Member	A	07/29/14		Drakkie's Alt		off	off	0		Drakkie's Alt	
+Gronslow	100	Shaman	Member	A	07/28/14		Drakkie's Alt		off	off	0		Drakkie's Alt	
+Gronsong	100	Bard	Member	A	07/30/14		Drakkie's Alt		off	off	0		Drakkie's Alt	
+Grottnikk	100	Warrior	Raider		07/25/14		Main, T2b		on	off	97990	05/28/14	Main, T2b	
+Grumpey	87	Cleric	Member	A	06/09/14		Klauss's Alt		off	off	0		Klauss's Alt	
+Gukgulbuk	52	Beastlord	Member	A	07/30/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Guss	100	Necromancer	Recruit/family	A	07/30/14	Plane of War	Royy's alt / 7/4/14		off	off	0		Royy's alt / 7/4/14	
+Gzzack	92	Shadow Knight	Recruit/family		07/29/14		Main, Started Trial 7/10/14		off	off	0		Main, Started Trial 7/10/14	
+Hadlan	88	Paladin	Member		07/28/14		Main		on	off	46506	07/28/14	Main	
+Hahn	90	Bard	Recruit/family		07/07/14		Main, Started Trial 6/16/14		off	off	5160	06/23/14	Main, Started Trial 6/16/14	
+Haladon	85	Ranger	Member	A	07/25/14		Bugbreath's Alt		off	off	0		Bugbreath's Alt	
+Halnon	85	Shaman	Member	A	07/26/14		Bugbreath's Alt		off	off	193	07/26/14	Bugbreath's Alt	
+Hanah	37	Paladin	Member	A	07/04/14		Stephanie's Alt		off	off	0		Stephanie's Alt	
+Hardalk	72	Shaman	Member	A	07/28/14	OFFLINE MODE	Bugbreath's Alt		off	off	0		Bugbreath's Alt	
+Healsyoarse	85	Cleric	Member	A	07/29/14		Vilmont's Alt		off	off	0		Vilmont's Alt	
+Hemakrit	80	Cleric	Member	A	07/20/14		Quickquack's Alt		off	off	0		Quickquack's Alt	
+Herekittykitty	86	Beastlord	Member		07/13/14		Main, Hellokitty		off	off	0		Main, Hellokitty	
+Heyysback	89	Rogue	Member	A	07/29/14		Wittlebeanz's Alt		off	off	0		Wittlebeanz's Alt	
+Hotbeatz	94	Bard	Member	A	07/30/14	The Dead Hills	Deadcorpse's alt		off	off	0		Deadcorpse's alt	
+Houndini	100	Magician	Raider		07/30/14	Grand Guild Hall	Main, T2b		on	on	28276	05/12/14	Main, T2b	
+Humiliation	57	Paladin	Member	A	07/30/14	Grand Guild Hall	Andreii's Alt		off	off	0		Andreii's Alt	
+Hummerrtank	89	Warrior	Member	A	07/30/14		Vithtir's Alt		off	off	0		Vithtir's Alt	
+Huuf	100	Magician	Officer	A	07/30/14	Bixie Hive	Stormfire's Alt		off	off	0		Stormfire's Alt	
+Hymm	100	Bard	Member		07/27/14		Wars Alt		off	off	0		Wars Alt	
+Hysenburg	79	Wizard	Member	A	07/23/14		Quickquack's Alt		off	off	0		Quickquack's Alt	
+Iamien	52	Magician	Member	A	07/01/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Ibec	92	Shaman	Member	A	07/29/14		Fizzleking's Alt		off	off	0		Fizzleking's Alt	
+Iinamare	91	Magician	Member	A	06/04/14		Larernee's Alt		off	off	0		Larernee's Alt	
+Infirmity	87	Necromancer	Member	A	07/05/14		Alive's Alt		off	off	0		Alive's Alt	
+Irasmina	92	Cleric	Member		05/19/14		Main		on	off	0		Main	
+Istasj	10	Shadow Knight	Member		07/14/14		Main, Mistas and Jalelorf's son		off	off	0		Main, Mistas and Jalelorf's son	
+Jaizek	100	Shadow Knight	Recruit/family		07/30/14		Main, Started Trial 7/5/14		off	off	0		Main, Started Trial 7/5/14	
+Jalelorf	100	Warrior	Raider		07/29/14		Main, T2b, Immortal as wife is a cleric		on	on	0		Main, T2b, Immortal as wife is a cleric	
+Jamessr	55	Cleric	Member	A	07/29/14		Stonearms Alt		off	off	0		Stonearms Alt	
+Jazzyforce	81	Rogue	Member	A	06/26/14		Joho's Alt		off	off	0		Joho's Alt	
+Jebal	100	Beastlord	Member	A	07/30/14		Cog's Alt		on	off	0		Cog's Alt	
+Jehbediah	93	Shaman	Member	A	07/30/14		Andreii's Alt		off	off	0		Andreii's Alt	
+Jeselle	100	Magician	Member		07/01/14		Main, Also pretend wizard		off	off	0		Main, Also pretend wizard	
+Jestinn	83	Bard	Member		07/24/14		Krakz's Alt		off	off	0		Krakz's Alt	
+Jezteer	70	Rogue	Member	A	07/19/14		Twiizted's Alt Started trial 61014		off	off	0		Twiizted's Alt Started trial 61014	
+Jezzie	72	Necromancer	Member	A	07/24/14		Creek's Alt		off	off	0		Creek's Alt	
+Jodii	100	Bard	Member	A	05/25/14		Anjay's Alt		off	off	0		Anjay's Alt	
+Johosophat	100	Shadow Knight	Member		07/30/14		Main, ogre sk, likes deep fried elves		off	off	0		Main, ogre sk, likes deep fried elves	
+Joplin	100	Druid	Officer	A	07/30/14		Mayfaire's Alt		on	on	10410	07/27/14	Mayfaire's Alt	
+Josaph	90	Magician	Member		07/30/14		Main		off	off	0		Main	
+Josoph	90	Druid	Member	A	07/30/14		Josaph's Alt		off	off	0		Josaph's Alt	
+Josuph	90	Enchanter	Member	A	07/30/14		Josaph's Alt		off	off	0		Josaph's Alt	
+Jtimberlake	90	Bard	Member		07/29/14		Main execurio		off	off	0		Main execurio	
+Junius	59	Rogue	Member	A	05/10/14		Creek's Alt		off	off	0		Creek's Alt	
+Kaeamven	100	Rogue	Member	A	07/29/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Kalamin	61	Druid	Member		07/17/14		Main		off	off	0		Main	
+Kanian	52	Druid	Member	A	07/22/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Kater	100	Shaman	Raider		07/30/14		Main, T2		on	on	72911	06/06/14	Main, T2	
+Katrinah	100	Monk	Member		07/24/14		Main		off	off	0		Main	
+Kavadeath	91	Beastlord	Member		07/14/14		Main		off	off	0		Main	
+Kaylle	87	Shaman	Member	A	06/09/14		Nydia's Alt		off	off	0		Nydia's Alt	
+Kebonsat	85	Beastlord	Recruit/family		07/30/14		Main, Started Trial 7/19/14		off	off	0		Main, Started Trial 7/19/14	
+Kees	79	Necromancer	Member		07/27/14		Main		off	off	0		Main	
+Kekor	100	Beastlord	Member		07/25/14		Main, don't pet his warder		off	off	0		Main, don't pet his warder	
+Kempel	90	Monk	Member		07/30/14	Plane of Time	Main		off	off	0		Main	
+Kenpachii	100	Berserker	Member		07/30/14		Main		off	off	0		Main	
+Khatrak	37	Monk	Member	A	06/08/14		Drakthar's Alt		off	off	0		Drakthar's Alt	
+Khrizen	50	Ranger	Officer		07/30/14	Nagafen's Lair	Main, T2b		on	on	2235356	07/29/14	Main, T2b	
+Kikkazz	100	Shadow Knight	Raider		07/28/14		Main, T2, Still Being Saved by Paladin		off	off	0		Main, T2, Still Being Saved by Paladin	
+Kikrabur	14	Shadow Knight	Member	A	07/01/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Kinluan	77	Druid	Recruit/family		07/11/14		Main, Started Trial 7/1/14		off	off	0		Main, Started Trial 7/1/14	
+Kirtas	60	Ranger	Member	A	07/01/14		Satrik's alt		off	off	0		Satrik's alt	
+Kisokally	100	Paladin	Co-Leader		07/30/14	Nagafen's Lair	Main, T2b, Frodo's gardener		on	on	36901	06/21/14	Main, T2b, Frodo's gardener	
+Kisokeric	100	Cleric	Officer	A	07/29/14		Kisokally's Alt, T2b		off	off	0		Kisokally's Alt, T2b	
+Klauss	100	Shadow Knight	Member		06/09/14		Main		on	off	0		Main	
+Klinko	100	Cleric	Member	A	07/22/14		YooHoo's Alt, T2		off	off	0		YooHoo's Alt, T2	
+Komi	82	Monk	Member	A	07/29/14		Ragnoruuk's alt		off	off	0		Ragnoruuk's alt	
+Komplex	100	Shaman	Member		07/30/14	Blightfire Moors	Main		off	off	0		Main	
+Kornelious	85	Magician	Recruit/family		05/30/14		Main, No application, Started Trial 6/14/14, 		off	off	0		Main, No application, Started Trial 6/14/14, 	
+Korrupt	83	Shadow Knight	Member	A	07/18/14		Quickquack's Alt		off	off	0		Quickquack's Alt	
+Kosik	78	Wizard	Member	A	07/23/14		Kisokally's Alt		off	off	0		Kisokally's Alt	
+Kosikaged	100	Magician	Officer	A	07/30/14	Grand Guild Hall	Kisokally's Alt		off	off	33002	07/23/14	Kisokally's Alt	
+Krakz	100	Berserker	Member		07/23/14		Main, T2, Welcomed as a member 7/7/14		on	on	0		Main, T2, Welcomed as a member 7/7/14	
+Krazytrain	100	Monk	Member		07/27/14		Main		on	off	32	06/02/14	Main	
+Krekis	100	Beastlord	Recruit/family		07/29/14		Main, Started Trial 7/28/14		on	on	0		Main, Started Trial 7/28/14	
+Krontik	100	Shaman	Member	A	07/29/14		Krazytrain's Alt		off	off	0		Krazytrain's Alt	
+Kubla	85	Monk	Member	A	05/28/14		Argent's Alt		off	off	0		Argent's Alt	
+Laciie	29	Shaman	Member	A	07/30/14		Agik's Alt		off	off	0		Agik's Alt	
+Laddorus	85	Magician	Member		06/13/14		Main		off	off	0		Main	
+Lalolas	100	Ranger	Officer		07/29/14		Main, T2b		on	off	99528	05/21/14	Main, T2b	
+Lalospetkitte	100	Shaman	Member	A	07/29/14		Lalolas's Alt		off	off	0		Lalolas's Alt	
+Lannius	100	Warrior	Member		07/16/14		Main		off	off	0		Main	
+Larernee	100	Druid	Raider		06/11/14		Main		off	off	0		Main	
+Lasurith	91	Warrior	Member	A	06/09/14		Klauss's Alt		off	off	0		Klauss's Alt	
+Laye	82	Necromancer	Member	A	07/19/14		Evian's Alt		off	off	0		Evian's Alt	
+Leap	100	Shadow Knight	Member	A	06/04/14		Vagabond's Alt		off	off	0		Vagabond's Alt	
+Leil	45	Bard	Member	A	07/30/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Lemdar	82	Druid	Recruit/family		07/25/14		Main, Family, Started Trial 6/1/14		off	off	0		Main, Family, Started Trial 6/1/14	
+Lenae	100	Enchanter	Raider		07/29/14		Main, T2, Guild Mascot		on	on	53159	06/23/14	Main, T2, Guild Mascot	
+Lenhob	95	Bard	Member	A	07/03/14		Vithar's Alt		off	off	0		Vithar's Alt	
+Lenia	100	Necromancer	Member		05/25/14		Main, Anjay sister		off	off	0		Main, Anjay sister	
+Letsfight	98	Beastlord	Member		07/24/14		Main		off	off	0		Main	
+Letskill	89	Ranger	Member	A	07/30/14		Letsfight's Alt		off	off	0		Letsfight's Alt	
+Lexxus	87	Necromancer	Recruit/family		07/30/14		Main, Started Trial 7/17/14 Referred by Absconder		off	off	0		Main, Started Trial 7/17/14 Referred by Absconder	
+Liglaan	93	Druid	Member	A	07/27/14		Fal's alt		off	off	0		Fal's alt	
+Likea	45	Enchanter	Member	A	07/15/14		Machomain's Alt		off	off	0		Machomain's Alt	
+Lilliamae	100	Shaman	Raider		07/29/14		Main, T2, J-lo of Cerberus		on	off	1757	06/07/14	Main, T2, J-lo of Cerberus	
+Linor	100	Warrior	Raider		07/26/14		Main, T2		on	off	25835	07/12/14	Main, T2	
+Liriana	94	Enchanter	Member	A	06/01/14		Angeltease's Alt		off	off	0		Angeltease's Alt	
+Livayna	20	Bard	Member	A	07/01/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Lolalas	92	Cleric	Member	A	07/22/14		Lalolas alt		off	off	0		Lalolas alt	
+Longbeard	85	Warrior	Member	A	07/18/14		Sulena's Alt		off	off	0		Sulena's Alt	
+Lonthin	100	Druid	Officer		07/25/14		Main, T2b, Evil little druid		off	off	0		Main, T2b, Evil little druid	
+Lostin	100	Shadow Knight	Raider		07/22/14		Main		on	off	10351	05/21/14	Main	
+Lyhallan	90	Necromancer	Member	A	07/26/14		Xyrhanna's Alt		off	off	187	07/14/14	Xyrhanna's Alt	
+Lyvaira	85	Shadow Knight	Member	A	07/01/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Machomain	50	Monk	Raider		07/30/14	Nagafen's Lair	Main, T2b, Faux Hawk		off	off	24811	05/22/14	Main, T2b, Faux Hawk	
+Magdallen	70	Magician	Member	A	07/28/14		X ray alt		off	off	0		X ray alt	
+Magicl	99	Magician	Member		05/29/14		Main		off	off	0		Main	
+Magimorrowind	97	Wizard	Member		07/22/14		Main		off	off	0		Main	
+Maio	90	Ranger	Member	A	07/29/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Maiya	19	Shaman	Member	A	05/10/14		Mayfaire Alt		off	off	0		Mayfaire Alt	
+Maladjusted	69	Wizard	Member	A	07/16/14		Molases Alt		off	off	0		Molases Alt	
+Malfator	79	Magician	Recruit/family	A	07/29/14		Fierced's Alt, Started Trial 6/19/14		off	off	0		Fierced's Alt, Started Trial 6/19/14	
+Malyn	81	Cleric	Member		05/23/14		Main		off	off	0		Main	
+Mamoulian	82	Enchanter	Member	A	07/30/14		Shallikir's alt		off	off	0		Shallikir's alt	
+Manbearpig	100	Cleric	Member		07/30/14		Yoohoo's Alt, T2b		on	off	0		Yoohoo's Alt, T2b	
+Marieke	85	Necromancer	Member		07/21/14		Main		off	off	0		Main	
+Mayfaire	100	Warrior	Senior Officer		07/30/14	Grand Guild Hall	Main, T2b, Khaleesi, Pirate Queen, trade skill enthusiast		on	on	1591285	07/23/14	Main, T2b, Khaleesi, Pirate Queen, trade skill enthusiast	
+Mayfelle	56	Enchanter	Officer	A	07/13/14		Mayfaire Alt		off	off	0		Mayfaire Alt	
+Meaculpas	100	Ranger	Recruit/family		07/29/14		Main, Started Trial 7/8/14		on	on	0		Main, Started Trial 7/8/14	
+Medicuss	100	Shaman	Officer	A	07/22/14		Collosis's Alt		off	off	0		Collosis's Alt	
+Meeleilee	81	Magician	Member	A	07/06/14		Meelos alt		off	off	0		Meelos alt	
+Meelos	100	Shadow Knight	Member		07/27/14		Main, Eats frog legs for breakfast		off	off	0		Main, Eats frog legs for breakfast	
+Megumibish	100	Magician	Raider		07/27/14		Main, T2b, went to Hogwarts		on	on	0		Main, T2b, went to Hogwarts	
+Meiriona	89	Wizard	Recruit/family		07/29/14		Main, Started Trial 7/23/14		off	off	0		Main, Started Trial 7/23/14	
+Melodarubious	100	Bard	Senior Officer	A	06/18/14		Darubious's Alt, T2		on	off	80395	06/13/14	Darubious's Alt, T2	
+Melodi	11	Bard	Member		06/17/14		Main		off	off	0		Main	
+Mestaclocan	100	Enchanter	Member		07/30/14		Main		off	off	0		Main	
+Methadone	100	Wizard	Co-Leader		07/30/14	Grand Guild Hall	Main, T2, Gargonaut, I 8 PP		on	on	9495	06/11/14	Main, T2, Gargonaut, I 8 PP	
+Mezmerelda	85	Enchanter	Member	A	07/25/14		Creek's Alt		off	off	0		Creek's Alt	
+Mezn	85	Enchanter	Member	A	07/19/14		Wars Alt		off	off	0		Wars Alt	
+Mindie	71	Wizard	Member	A	07/10/14		Slyally's Alt		off	off	0		Slyally's Alt	
+Mindylou	71	Enchanter	Member	A	07/10/14		Slyally's Alt		off	off	0		Slyally's Alt	
+Minsc	100	Berserker	Member	A	05/27/14		Eboshi's Alt		off	off	0		Eboshi's Alt	
+Minutia	92	Warrior	Member	A	05/29/14		Lenae's Alt		off	off	303	05/17/14	Lenae's Alt	
+Mislabik	90	Enchanter	Member	A	07/29/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Missednote	100	Bard	Officer	A	07/30/14		Gargonaut's Alt		off	off	0		Gargonaut's Alt	
+Mistas	100	Cleric	Raider		07/27/14		Main, Has good taste - married a barbarian warrior		off	off	0		Main, Has good taste - married a barbarian warrior	
+Mocha	96	Enchanter	Member		07/29/14		Main		off	off	0		Main	
+Moise	72	Druid	Member	A	05/28/14		Emouchet's Alt		off	off	0		Emouchet's Alt	
+Molases	100	Shaman	Recruit/family		07/28/14		Main, Started Trial 7/6/14		off	off	0		Main, Started Trial 7/6/14	
+Molten	100	Magician	Member		07/28/14		Main		off	off	0		Main	
+Moodie	68	Magician	Member	A	07/27/14		Molases Alt		off	off	0		Molases Alt	
+Moretz	84	Magician	Member	A	07/30/14		Shallikir's Alt		off	off	0		Shallikir's Alt	
+Mormegil	52	Cleric	Member	A	07/01/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Mortisha	100	Necromancer	Recruit/family		07/30/14		Main, Started Trial 7/10/14		off	off	0		Main, Started Trial 7/10/14	
+Mulva	100	Cleric	Recruit/family	A	07/30/14	Plane of War	Royy's alt / 7/4/14		off	off	0		Royy's alt / 7/4/14	
+Muzeek	100	Bard	Raider		07/30/14	Nagafen's Lair	Main, T2b		off	off	0		Main, T2b	
+Nalena	100	Magician	Raider		07/19/14		Main, T2b		on	off	0		Main, T2b	
+Nateynia	89	Druid	Member	A	06/09/14		Nydia's Alt		off	off	0		Nydia's Alt	
+Naturity	93	Druid	Member	A	07/18/14		Zoratham's Alt		off	off	0		Zoratham's Alt	
+Nazca	51	Beastlord	Member	A	06/29/14		Blumpkin's Alt		off	off	0		Blumpkin's Alt	
+Nchanter	85	Enchanter	Member	A	05/14/14		Dotsy's Alt		off	off	0		Dotsy's Alt	
+Nderx	71	Enchanter	Member	A	07/29/14		Bordolor's Alt		off	off	0		Bordolor's Alt	
+Neith	87	Necromancer	Member	A	06/26/14		Shaolina's Alt		off	off	0		Shaolina's Alt	
+Nenpus	100	Magician	Member		07/29/14		Main		off	off	62112	07/28/14	Main	
+Nephilims	100	Berserker	Raider		07/25/14		Main, T2b		on	off	46398	07/12/14	Main, T2b	
+Netheria	75	Necromancer	Member	A	06/26/14		Lenae's Alt		off	off	0		Lenae's Alt	
+Nicol	96	Monk	Member	A	07/15/14		Bulgrum's Alt		off	off	0		Bulgrum's Alt	
+Nikolo	99	Shaman	Member	A	07/30/14		Cerekk's Alt		off	off	25279	07/03/14	Cerekk's Alt	
+Nilum	100	Magician	Raider		07/30/14		Main, T2b		on	on	0		Main, T2b	
+Ninlaanae	86	Ranger	Member	A	06/20/14		Joho's Alt		off	off	0		Joho's Alt	
+Nirus	100	Cleric	Raider		07/28/14		Main, T2b, keeps tanks up with just his little finger		off	off	0		Main, T2b, keeps tanks up with just his little finger	
+Nise	100	Enchanter	Member	A	07/01/14		Nirus's Alt		off	off	21367	06/05/14	Nirus's Alt	
+Nixen	90	Magician	Member	A	07/27/14		Nirus's alt		off	off	0		Nirus's alt	
+Nizzandra	86	Druid	Recruit/family		07/20/14		Main, Started Trial 6/25/14 +1		off	off	0		Main, Started Trial 6/25/14 +1	
+Noguchi	93	Magician	Member		07/30/14		Shik's Alt		off	off	0		Shik's Alt	
+Noidea	85	Ranger	Member	A	07/03/14		Sarcasmo's Alt		off	off	0		Sarcasmo's Alt	
+Nomisayin	70	Magician	Officer	A	07/22/14		Mayfaire Alt		off	off	0		Mayfaire Alt	
+Nsync	91	Bard	Member	A	07/08/14		Fizzleking's Alt		off	off	0		Fizzleking's Alt	
+Ntedm	100	Warrior	Senior Officer	A	06/13/14		Darubious's Alt		off	off	8601	06/03/14	Darubious's Alt	
+Nukeharder	100	Wizard	Member	A	07/22/14		Kekor's Alt		off	off	0		Kekor's Alt	
+Nydia	97	Cleric	Member		06/18/14		Main		off	off	0		Main	
+Nylah	100	Beastlord	Raider		07/30/14	The Guild Lobby	Main, T2b		on	on	53036	06/19/14	Main, T2b	
+Nynia	86	Enchanter	Member	A	06/05/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Obrian	86	Bard	Member		06/28/14		Main		off	off	0		Main	
+Ogon	100	Magician	Member		06/01/14		Main		off	off	0		Main	
+Omniscience	100	Shadow Knight	Raider		07/22/14		Main, T2		on	off	50410	06/09/14	Main, T2	
+Optimystik	87	Shadow Knight	Member		07/17/14		Main from Pov		off	off	0		Main from Pov	
+Opur	100	Berserker	Raider		07/29/14		Main, T2b Has the BEST smellin' finger around!		on	on	8138	05/13/14	Main, T2b Has the BEST smellin' finger around!	
+Overture	100	Bard	Member	A	07/21/14		Kisokally's Alt		off	off	0		Kisokally's Alt	
+Paith	93	Monk	Member		06/14/14		Main		off	off	0		Main	
+Paux	95	Shadow Knight	Member	A	07/17/14		Rullu's Alt		off	off	0		Rullu's Alt	
+Paxal	100	Ranger	Officer	A	06/20/14		Gargonaut's Alt		off	off	0		Gargonaut's Alt	
+Paxxt	88	Necromancer	Member	A	07/18/14		Borgesh's Alt		off	off	0		Borgesh's Alt	
+Perplex	100	Enchanter	Member	A	06/11/14		Vagabond's Alt		off	off	0		Vagabond's Alt	
+Petah	100	Druid	Member		07/29/14		Main		on	off	12396	07/24/14	Main	
+Petronia	100	Wizard	Raider		07/28/14		Main, T2b		off	off	0		Main, T2b	
+Pettoys	71	Magician	Member	A	05/25/14		Overpowered's Alt		off	off	0		Overpowered's Alt	
+Phargo	85	Cleric	Recruit/family		07/28/14		Main, Started Trial 6/15/14		off	off	0		Main, Started Trial 6/15/14	
+Pheonix	100	Rogue	Member		06/25/14		Main		off	off	0		Main	
+Pikey	83	Rogue	Recruit/family		07/27/14		Main, Started Trial 7/27/14		off	off	0		Main, Started Trial 7/27/14	
+Pokeit	97	Rogue	Member	A	06/14/14		Wendyyen's Alt		off	off	0		Wendyyen's Alt	
+Porinstache	100	Cleric	Member	A	06/16/14		Chalupabatman's Alt		off	off	0		Chalupabatman's Alt	
+Portaltaxi	100	Druid	Member	A	07/29/14		Fizzleking's Alt		off	off	0		Fizzleking's Alt	
+Priadori	20	Berserker	Member	A	07/01/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Primordial	100	Magician	Member	A	06/16/14		Vagabond's Alt		off	off	0		Vagabond's Alt	
+Proximity	93	Bard	Recruit/family	A	07/18/14		Ramakin's Alt, Started Trial 5/31/14		off	off	0		Ramakin's Alt, Started Trial 5/31/14	
+Psyanimus	92	Cleric	Recruit/family		07/18/14		Main, Started Trial 6/23/14		off	off	0		Main, Started Trial 6/23/14	
+Purrz	100	Shaman	Raider		07/30/14	Grand Guild Hall	Muzeek's Alt (was main, been gone.. changed 7/27/14)		off	off	0		Muzeek's Alt (was main, been gone.. changed 7/27/14)	
+Putna	95	Cleric	Member	A	05/14/14		Elanor's Alt		off	off	0		Elanor's Alt	
+Putup	100	Monk	Member	A	07/06/14		Zoratham's Alt		off	off	0		Zoratham's Alt	
+Pyromainiak	71	Magician	Member	A	07/24/14		Creek's Alt		off	off	0		Creek's Alt	
+Qaien	95	Cleric	Member	A	06/09/14		Kikkazz's Alt		off	off	0		Kikkazz's Alt	
+Qendader	90	Paladin	Member	A	07/29/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Qilion	100	Enchanter	Member		06/28/14		Main, T2, don't break his mez, you wouldn't like him if you break his mez		off	off	0		Main, T2, don't break his mez, you wouldn't like him if you break his mez	
+Quickquark	85	Enchanter	Member		05/30/14		Main		off	off	0		Main	
+Rada	100	Shadow Knight	Member		06/12/14		Main		off	off	0		Main	
+Ragbuke	100	Wizard	Member		07/29/14		Main		on	off	397906	07/26/14	Main	
+Ragnoruuk	100	Rogue	Raider		07/29/14		Main, T2		on	off	8870	06/04/14	Main, T2	
+Rahak	100	Shaman	Member	A	07/06/14		Cumber's Alt		off	off	0		Cumber's Alt	
+Raidbot	1	Shaman	Officer	A	06/27/14		Druad's Alt		off	off	0		Druad's Alt	
+Raiddar	87	Ranger	Member		06/06/14		Main		off	off	0		Main	
+Ralta	100	Monk	Member		06/28/14		Main		off	off	0		Main	
+Ramakin	100	Magician	Recruit/family		06/27/14		Main, Started Trial 5/31/14		off	off	0		Main, Started Trial 5/31/14	
+Rand	91	Necromancer	Member		05/22/14		Main		off	off	0		Main	
+Rangerbot	100	Ranger	Member	A	07/29/14		Gargonaut's Buffbot		off	off	0		Gargonaut's Buffbot	
+Ranie	87	Ranger	Member	A	07/11/14		Lenae's Alt		off	off	0		Lenae's Alt	
+Ravall	100	Shaman	Officer	A	07/24/14		Thobmages Alt		off	off	0		Thobmages Alt	
+Ravill	100	Enchanter	Officer	A	07/30/14	The Dead Hills	Thobmage's Alt, T2b		off	on	0		Thobmage's Alt, T2b	
+Ravrezz	95	Cleric	Officer	A	07/30/14	The Dead Hills	Thobmage's Alt		off	off	0		Thobmage's Alt	
+Rayhn	91	Berserker	Member		06/17/14		Main		off	off	0		Main	
+Razael	92	Necromancer	Recruit/family		07/29/14		Main, Started Trial 7/13/14		off	off	0		Main, Started Trial 7/13/14	
+Rcalhealer	100	Cleric	Officer		07/27/14		Main, T2b, dzzzzz in her ears		on	off	41098	05/14/14	Main, T2b, dzzzzz in her ears	
+Rcalielie	100	Bard	Leader		07/29/14		Rcalhealer's Alt, T2, Main Recruiter, Dr. Rkelly		on	off	181850	07/19/14	Rcalhealer's Alt, T2, Main Recruiter, Dr. Rkelly	
+Rcalmage	100	Magician	Officer	A	07/22/14		Rcalhealer's Alt		off	off	5545	06/22/14	Rcalhealer's Alt	
+Regeena	94	Rogue	Member		07/19/14		Main		on	off	58782	07/08/14	Main	
+Rekie	96	Druid	Member	A	05/15/14		Shadowfist's Alt		off	off	0		Shadowfist's Alt	
+Rekiz	100	Enchanter	Member	A	05/15/14		Shadowfist's Alt		off	off	0		Shadowfist's Alt	
+Remeron	100	Enchanter	Officer	A	06/26/14		Gargonaut's Alt		off	off	0		Gargonaut's Alt	
+Remmington	100	Magician	Officer	A	06/21/14		Collosis's Alt		off	off	24576	06/04/14	Collosis's Alt	
+Resistance	92	Shadow Knight	Recruit/family		07/29/14		Main, Started Trial 6/25/14		off	off	0		Main, Started Trial 6/25/14	
+Restlin	89	Magician	Member		07/03/14		Main		off	off	0		Main	
+Reverance	94	Paladin	Member	A	07/13/14		Muzeek's Alt		off	off	0		Muzeek's Alt	
+Revv	100	Cleric	Raider		06/21/14		Main, T2		on	on	6443	05/13/14	Main, T2	
+Reyenna	100	Druid	Member	A	07/29/14		Lenae's Alt		on	off	6387	07/03/14	Lenae's Alt	
+Rezes	55	Cleric	Member	A	05/23/14		Dotsy's Alt		off	off	0		Dotsy's Alt	
+Rippley	85	Monk	Officer	A	07/26/14		Mayfaire Alt		off	off	0		Mayfaire Alt	
+Robben	94	Rogue	Member	A	07/03/14		Allupin Alt		off	off	0		Allupin Alt	
+Roddek	100	Magician	Member	A	06/21/14		Xyphon's Alt		off	off	0		Xyphon's Alt	
+Rogu	100	Rogue	Member	A	07/29/14		Wars' Alt		off	off	0		Wars' Alt	
+Rogueaine	95	Rogue	Recruit/family		07/29/14	The Guild Lobby	Main, Started Trial 7/7/14		on	off	79644	07/10/14	Main, Started Trial 7/7/14	
+Roheart	91	Paladin	Member		07/29/14		Main		off	off	0		Main	
+Ronab	95	Shadow Knight	Member	A	07/30/14		Coglahob Alt		off	off	0		Coglahob Alt	
+Ronheart	14	Necromancer	Member		07/15/14		roheart alt		off	off	0		roheart alt	
+Ronjin	88	Warrior	Member	A	07/13/14		Roheart's Alt		off	off	0		Roheart's Alt	
+Rootin	100	Druid	Member		07/29/14		Main, Is a dude		off	off	29	05/17/14	Main, Is a dude	
+Roraki	82	Monk	Member		07/28/14		Main		off	off	1282	07/23/14	Main	
+Rorret	100	Necromancer	Member		05/17/14		Main		off	off	0		Main	
+Rorshach	100	Enchanter	Member	A	06/26/14		Skourge's Alt		off	off	0		Skourge's Alt	
+Roshii	100	Shaman	Recruit/family		07/18/14		Main, Started Trial 7/12/14		off	off	0		Main, Started Trial 7/12/14	
+Royy	100	Magician	Recruit/family		07/30/14	Plane of War	Main, Started Trial 7/4/14		on	on	66182	07/12/14	Main, Started Trial 7/4/14	
+Rubyroo	83	Ranger	Member	A	07/26/14		Kater's Alt		off	off	0		Kater's Alt	
+Ruee	90	Bard	Member	A	05/31/14		Revv's Alt		off	off	0		Revv's Alt	
+Rullu	100	Rogue	Raider		07/17/14		Main, T2		off	off	0		Main, T2	
+Runder	85	Berserker	Member	A	05/09/14		Zoratham's Alt		off	off	0		Zoratham's Alt	
+Ryazlin	100	Magician	Raider		07/29/14		Main, T2b		on	on	215302	07/26/14	Main, T2b	
+Rynerr	88	Wizard	Member	A	07/30/14		Kenpachii's alt		off	off	0		Kenpachii's alt	
+Sadrea	86	Necromancer	Member	A	05/24/14		Rcalhealer's Alt		off	off	0		Rcalhealer's Alt	
+Sallizar	100	Wizard	Member	A	06/01/14		Ogon's Alt		off	off	0		Ogon's Alt	
+Samten	100	Cleric	Member		06/11/14		Main, Anjay fiance		off	off	0		Main, Anjay fiance	
+Sanadlgon	91	Ranger	Member	A	07/14/14		Cenglagar's Alt		off	off	0		Cenglagar's Alt	
+Sarcasmo	85	Druid	Member		07/07/14		Main		off	off	290	06/02/14	Main	
+Satrik	100	Monk	Raider		07/30/14		Main		on	off	101535	07/29/14	Main	
+Scalebutt	95	Monk	Member	A	06/26/14		Sneakytoons's Alt		on	off	0		Sneakytoons's Alt	
+Selfless	85	Monk	Member		07/30/14		Muzeek's Alt		off	off	0		Muzeek's Alt	
+Seratonin	85	Druid	Member	A	05/26/14		Vacus's Alt		off	off	0		Vacus's Alt	
+Sewolf	87	Berserker	Member		05/27/14		Main		off	off	0		Main	
+Shabaazz	100	Bard	Member	A	07/18/14		Shabaz's Alt		off	off	0		Shabaz's Alt	
+Shabaz	100	Beastlord	Raider		07/17/14		Main, T2		off	off	0		Main, T2	
+Shadon	100	Rogue	Member	A	07/15/14		Skourge's Alt		off	off	0		Skourge's Alt	
+Shadowfist	100	Monk	Member		06/10/14		Main		off	off	14778	05/11/14	Main	
+Shaggyforce	86	Beastlord	Recruit/family		07/19/14		Main, No application, Started Trial 6/22/14		off	off	0		Main, No application, Started Trial 6/22/14	
+Shagnaz	98	Ranger	Member	A	07/29/14		Joho's Alt		off	off	0		Joho's Alt	
+Shahbaz	100	Shaman	Member	A	07/17/14		Shabaz's Alt		off	off	0		Shabaz's Alt	
+Shallikir	100	Shaman	Officer		07/29/14		Main, T2, 2.0		off	off	0		Main, T2, 2.0	
+Shamanic	85	Shaman	Member	A	07/12/14		Zoratham's Alt		off	off	0		Zoratham's Alt	
+Shamayim	52	Druid	Member	A	07/13/14		Blumpkin's Alt		off	off	0		Blumpkin's Alt	
+Shampaine	90	Shaman	Member	A	06/22/14		Sneakytoon's Alt		off	off	0		Sneakytoon's Alt	
+Shamwowe	100	Shaman	Member	A	06/18/14		Wendyyen's Alt		off	off	0		Wendyyen's Alt	
+Shamz	100	Shaman	Member	A	07/29/14		Wars' Alt		off	off	0		Wars' Alt	
+Shaolina	100	Monk	Raider		07/18/14		Main		off	off	0		Main	
+Shapod	92	Shaman	Member	A	07/24/14		Kenpachii's Alt		off	off	0		Kenpachii's Alt	
+Shenae	85	Rogue	Member	A	05/22/14		Lenae's Alt		off	off	0		Lenae's Alt	
+Shihan	100	Ranger	Raider		06/25/14		Main, T2, makes weaker men /deskflip		on	off	33284	05/11/14	Main, T2, makes weaker men /deskflip	
+Shikansis	52	Monk	Member	A	07/01/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Shiknew	100	Paladin	Senior Officer		07/30/14	Argin-Hiz	Main, T2b		on	off	0		Main, T2b	
+Shows	91	Necromancer	Member		07/16/14		Main		off	off	0		Main	
+Shyklah	85	Beastlord	Member	A	07/23/14		Shik's Alt		off	off	0		Shik's Alt	
+Sicktoonz	95	Bard	Member	A	07/25/14		Kekor's Alt		off	off	0		Kekor's Alt	
+Sillka	84	Ranger	Officer	A	07/13/14		Foxxie's Alt		off	off	117	07/13/14	Foxxie's Alt	
+Silverclawz	100	Beastlord	Recruit/family		07/30/14	Nagafen's Lair	Main, No application,  Started Trial 7/28/14		off	off	0		Main, No application,  Started Trial 7/28/14	
+Silvermage	85	Magician	Member	A	06/19/14		Rullu's Alt		off	off	0		Rullu's Alt	
+Simia	100	Ranger	Member	A	05/30/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Simmadown	76	Wizard	Officer	A	07/17/14		Mayfaire Alt		off	off	0		Mayfaire Alt	
+Sinraa	92	Rogue	Member	A	07/14/14		Kekor's Alt		off	off	0		Kekor's Alt	
+Sirona	86	Shaman	Officer	A	07/16/14		Mayfaire's Alt		off	off	0		Mayfaire's Alt	
+Skourge	100	Shadow Knight	Member		07/30/14		Main, T2		off	off	141953	05/09/14	Main, T2	
+Skynet	100	Enchanter	Officer	A	07/26/14	Grand Guild Hall	Gargonaut's Buffbot		off	off	0		Gargonaut's Buffbot	
+Slahzinger	67	Rogue	Member	A	06/02/14		Lostin's Alt		off	off	0		Lostin's Alt	
+Slimes	100	Shaman	Raider		07/19/14		Main, T2, gnomish gormet		off	off	0		Main, T2, gnomish gormet	
+Sliptrigger	90	Ranger	Recruit/family	A	07/27/14		Twiistiin's Alt, Started Trial 7/27/14		off	off	0		Twiistiin's Alt, Started Trial 7/27/14	
+Slogin	94	Shaman	Member	A	06/16/14		Vagabond Alt		off	off	0		Vagabond Alt	
+Sluuty	79	Necromancer	Member	A	07/26/14		Linor's Alt		off	off	0		Linor's Alt	
+Slyally	93	Rogue	Member		07/16/14		Main, cutest guildie ever		off	off	0		Main, cutest guildie ever	
+Smoking	82	Ranger	Member	A	07/14/14		Stablo's Alt		off	off	0		Stablo's Alt	
+Sneakytoon	100	Rogue	Member		06/26/14		Main		on	off	1791	05/31/14	Main	
+Sollaria	8	Cleric	Member	A	07/06/14		Sarcasmo's alt		off	off	0		Sarcasmo's alt	
+Sonic	100	Bard	Member	A	06/21/14		Xyphon's Alt		off	off	0		Xyphon's Alt	
+Sonik	85	Bard	Member	A	05/21/14		Lostin's Alt		off	off	0		Lostin's Alt	
+Sonosmi	79	Cleric	Member	A	07/26/14		Vithtir Alt		off	off	0		Vithtir Alt	
+Sorinfists	85	Monk	Member	A	07/10/14		Sorintaxes's Alt		off	off	0		Sorintaxes's Alt	
+Sorinspanx	49	Paladin	Member	A	07/24/14		Sorintaxes' Alt		off	off	0		Sorintaxes' Alt	
+Sorintaxes	100	Shaman	Raider		07/28/14		Main, T2b		off	off	93034	07/20/14	Main, T2b	
+Soundgarden	97	Bard	Member	A	07/21/14		Omniscience's Alt		on	off	6761	07/16/14	Omniscience's Alt	
+Speedpot	86	Beastlord	Recruit/family		07/30/14	The Feerrott	Main, No application, Started Trial 7/25/14		off	off	0		Main, No application, Started Trial 7/25/14	
+Sproc	100	Rogue	Raider		07/29/14		Main, T2b, mobs really don't want him behind them		on	off	100172	07/16/14	Main, T2b, mobs really don't want him behind them	
+Squishie	99	Ranger	Member	A	07/30/14		Fizzleking's Alt		off	off	0		Fizzleking's Alt	
+Sssizzle	85	Necromancer	Member	A	05/23/14		Zoratham's Alt		off	off	0		Zoratham's Alt	
+Stablo	98	Rogue	Member		07/18/14		Main		off	off	0		Main	
+Stay	100	Bard	Member		07/25/14		Main		off	off	0		Main	
+Stedd	100	Berserker	Member		07/20/14		Main, T2 Mrs. Napkin		on	off	0		Main, T2 Mrs. Napkin	
+Stephanie	100	Wizard	Member		07/24/14		Main		off	off	0		Main	
+Stonearms	94	Ranger	Member		07/29/14		Main		off	off	13173	06/25/14	Main	
+Stonecutter	85	Shaman	Member	A	07/22/14		Stonearms's alt		off	off	0		Stonearms's alt	
+Stonehead	95	Warrior	Member	A	06/14/14		Dethcomestoyou's Alt		off	off	0		Dethcomestoyou's Alt	
+Stormaxe	97	Berserker	Member		07/14/14		Main		off	off	0		Main	
+Stormfire	100	Ranger	Senior Officer		07/30/14	Ethernere Tainted West Karana	Main, T2		off	off	271037	07/23/14	Main, T2	
+Stormmy	70	Druid	Officer	A	07/10/14		Foxxie's Alt		off	off	0		Foxxie's Alt	
+Stormychanter	42	Enchanter	Officer	A	07/16/14		Stormfire's Alt		off	off	0		Stormfire's Alt	
+Stormyshammy	100	Shaman	Officer	A	07/30/14	Bixie Hive	Stormfire's Alt		off	off	0		Stormfire's Alt	
+Straight	100	Ranger	Member	A	05/15/14		Shadowfist's Alt		off	off	0		Shadowfist's Alt	
+Stripey	85	Beastlord	Member	A	05/12/14		Magicl's Alt		off	off	0		Magicl's Alt	
+Subaru	87	Warrior	Member	A	07/23/14		Kekor's Alt		off	off	0		Kekor's Alt	
+Subi	86	Shaman	Member	A	05/10/14		Raiddar's Alt		off	off	0		Raiddar's Alt	
+Sudorce	67	Monk	Recruit/family	A	07/29/14		Sudosr's Alt		off	off	0		Sudosr's Alt	
+Sudsor	82	Shaman	Recruit/family		07/29/14		Main, Started Trial 7/3/14		on	off	1133	07/29/14	Main, Started Trial 7/3/14	
+Suilira	99	Rogue	Member		07/29/14		Main		off	off	0		Main	
+Sulena	100	Ranger	Member		07/18/14		Main		on	off	16629	05/12/14	Main	
+Sumage	86	Magician	Recruit/family		07/06/14		Main, Started Trial 7/5/14 friend of Rullu		off	off	0		Main, Started Trial 7/5/14 friend of Rullu	
+Summonina	100	Magician	Member	A	07/10/14		Lenae's Alt		off	off	0		Lenae's Alt	
+Suoiburad	77	Cleric	Officer	A	05/10/14		Darubious's Alt		off	off	0		Darubious's Alt	
+Superbuffs	95	Shaman	Member	A	05/16/14		Omniscience's Alt		off	off	0		Omniscience's Alt	
+Svanna	88	Beastlord	Member	A	06/09/14		Nydia's Alt		off	off	0		Nydia's Alt	
+Sweets	100	Bard	Officer	A	07/29/14		Argent's Alt		off	off	0		Argent's Alt	
+Sylar	100	Wizard	Officer	A	06/09/14		Argent's Alt		off	off	0		Argent's Alt	
+Taeil	87	Necromancer	Recruit/family	A	07/24/14		Tiladr's Alt Started Trial 7/13/14		off	off	0		Tiladr's Alt Started Trial 7/13/14	
+Taekrar	70	Shaman	Recruit/family		07/26/14		Main, Started Trial 6/22/14		off	off	0		Main, Started Trial 6/22/14	
+Takatsuki	100	Shaman	Member		07/29/14		Main, T2b, My cat is a serial mic killer!		on	on	116392	07/16/14	Main, T2b, My cat is a serial mic killer!	
+Tallhat	96	Wizard	Member		06/10/14		Main		off	off	0		Main	
+Tankforyou	100	Shadow Knight	Member	A	07/25/14		Kekor's Alt		off	off	0		Kekor's Alt	
+Tantrasil	100	Rogue	Member		06/01/14		Main		on	off	57511	05/18/14	Main	
+Taolen	100	Ranger	Member	A	07/18/14		Muzeek's Alt		off	off	0		Muzeek's Alt	
+Taptank	92	Necromancer	Member	A	06/29/14		Sneakytoon's Alt		on	off	0		Sneakytoon's Alt	
+Targus	100	Shadow Knight	Member	A	07/28/14		Gargonaut's Alt		off	off	0		Gargonaut's Alt	
+Tavalyniel	71	Necromancer	Member	A	07/20/14		Xyrhanna's Alt		off	off	419	07/19/14	Xyrhanna's Alt	
+Tavarianya	92	Druid	Member	A	07/24/14		Xyrhanna's Alt		off	off	12	07/24/14	Xyrhanna's Alt	
+Tazmarin	73	Druid	Member	A	07/12/14		Alive's Alt		off	off	0		Alive's Alt	
+Tegs	100	Necromancer	Member		06/01/14		Main		off	off	0		Main	
+Temsys	75	Shadow Knight	Member	A	07/22/14		Shallikir's alt		off	off	0		Shallikir's alt	
+Tenol	96	Beastlord	Member	A	07/29/14		Mocha's alt		off	off	0		Mocha's alt	
+Terria	100	Shaman	Member	A	07/17/14		Stay's Alt		off	off	0		Stay's Alt	
+Theantichrist	50	Necromancer	Member	A	07/30/14		coglahob's alt		off	off	0		coglahob's alt	
+Theforgotenrace	85	Cleric	Member	A	05/10/14		Herekittykitty's Alt		off	off	0		Herekittykitty's Alt	
+Thobelina	2	Magician	Member	A	05/22/14		Grottnikk + Thob's Lovetoy		off	off	0		Grottnikk + Thob's Lovetoy	
+Thobmage	100	Magician	Senior Officer		07/30/14	The Dead Hills	Main, T2b 		on	on	0		Main, T2b 	
+Thobus	100	Beastlord	Officer	A	07/29/14		Thobmage's Alt		off	off	0		Thobmage's Alt	
+Throbmage	1	Paladin	Member	A	05/28/14		Look what I can do!		off	off	0		Look what I can do!	
+Thunderess	71	Shadow Knight	Member	A	07/29/14		vithtir alt		off	off	0		vithtir alt	
+Tibir	100	Shaman	Member	A	07/30/14	Plane of Knowledge	Khrizen's Alt		off	off	0		Khrizen's Alt	
+Tiice	85	Shaman	Member	A	05/11/14		Rada's Alt		off	off	0		Rada's Alt	
+Tikaab	90	Shaman	Member	A	07/29/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
+Tiladr	87	Magician	Recruit/family		07/24/14		Main, Started Trial 7/13/14 		off	off	0		Main, Started Trial 7/13/14 	
+Tileril	85	Beastlord	Recruit/family		07/30/14		Main, Started Trial 7/29/14		off	off	0		Main, Started Trial 7/29/14	
+Timh	100	Enchanter	Member	A	05/18/14		Cakhmaim's Alt		off	off	0		Cakhmaim's Alt	
+Titanos	100	Paladin	Officer	A	07/28/14	Grand Guild Hall	Gargonaut's Buffbot		off	off	0		Gargonaut's Buffbot	
+Tizair	54	Druid	Member	A	07/29/14		Tizzar's Alt		off	off	0		Tizzar's Alt	
+Tizzar	53	Rogue	Member		05/27/14		Main		off	off	0		Main	
+Torie	76	Cleric	Officer	A	07/23/14		Foxxie's Alt		off	off	0		Foxxie's Alt	
+Torran	100	Rogue	Member		07/30/14	East Wastes: Zeixshi-Kar's Awakening	Main		on	on	0		Main	
+Trammel	100	Druid	Member	A	06/16/14		Vagabond's Alt		off	off	0		Vagabond's Alt	
+Treewhisper	91	Beastlord	Member		07/27/14	The Guild Lobby	Main		off	off	0		Main	
+Trunks	93	Bard	Member	A	07/06/14		Pheonix Alt		off	off	0		Pheonix Alt	
+Tulean	90	Druid	Recruit/family		07/29/14		Main, Started Trial 7/22/14		off	off	0		Main, Started Trial 7/22/14	
+Tuur	100	Necromancer	Officer		07/28/14		Main, T2b		off	off	0		Main, T2b	
+Twiistiin	40	Bard	Recruit/family		07/29/14		Main, Started Trial 7/27/14		off	off	0		Main, Started Trial 7/27/14	
+Twiizted	92	Bard	Member		07/28/14		Main		off	off	26826	07/12/14	Main	
+Twistofaith	97	Beastlord	Member	A	07/26/14		Petronia's Alt		off	off	0		Petronia's Alt	
+Tywinn	100	Magician	Officer	A	06/21/14		Collosis's Alt		off	off	0		Collosis's Alt	
+Tznon	57	Enchanter	Member		05/17/14		Main		off	off	0		Main	
+Ulani	98	Druid	Member		05/18/14		Main		off	off	0		Main	
+Underthe	88	Shaman	Member	A	07/25/14		Deadcorpse's Alt		off	off	288	06/11/14	Deadcorpse's Alt	
+Unemployed	93	Shadow Knight	Recruit/family		06/02/14		Main, Started Trial 5/31/14		off	off	0		Main, Started Trial 5/31/14	
+Vacus	100	Warrior	Member	A	07/04/14		Stay's Alt		off	off	0		Stay's Alt	
+Vaelrya	75	Magician	Member	A	06/17/14		Aiwendi's Alt		off	off	0		Aiwendi's Alt	
+Vagabond	100	Bard	Raider		06/16/14		Main, T2		on	on	98952	06/10/14	Main, T2	
+Vagari	100	Cleric	Member	A	06/11/14		Vagabond's Alt		off	off	0		Vagabond's Alt	
+Vahsa	100	Monk	Raider	A	07/27/14		Druad's Alt, aka Argent's boyfriend		off	off	0		Druad's Alt, aka Argent's boyfriend	
+Velthiss	92	Monk	Member		07/28/14		Main		off	off	0		Main	
+Vendiile	89	Cleric	Member	A	07/29/14		Shallikir's alt		off	off	0		Shallikir's alt	
+Vendir	85	Wizard	Member	A	05/10/14		Raiddar's Alt		off	off	0		Raiddar's Alt	
+Verily	100	Enchanter	Raider		07/30/14		Main, T2b		on	off	31961	05/19/14	Main, T2b	
+Viceclawz	98	Beastlord	Member	A	07/30/14	Grand Guild Hall	Main		on	off	2577	07/26/14	Main	
+Vidare	100	Cleric	Officer	A	07/30/14	Argin-Hiz	Shiknew's Alt, T2b		on	off	41772	05/09/14	Shiknew's Alt, T2b	
+Viirrus	87	Druid	Member	A	07/30/14		Andreii's Alt		off	off	0		Andreii's Alt	
+Villham	85	Necromancer	Member	A	07/05/14		Drakthar's Alt		off	off	0		Drakthar's Alt	
+Villor	94	Beastlord	Member		06/28/14		Main		off	off	0		Main	
+Vilmont	100	Necromancer	Member		07/30/14		Main		off	off	59596	06/05/14	Main	
+Vithar	100	Warrior	Officer		07/18/14		Main, T2b, raid tank at 2k aa, trolls really are tough		on	on	9726	06/21/14	Main, T2b, raid tank at 2k aa, trolls really are tough	
+Vithtir	100	Magician	Raider		07/30/14		Viceclawz alt, T2		on	off	26319	06/19/14	Viceclawz alt, T2	
+Vithtyrr	87	Necromancer	Member	A	07/28/14		Vithtar's Alt		off	off	0		Vithtar's Alt	
+Vixxon	86	Shaman	Officer	A	07/10/14		Foxxie's Alt		off	off	3613	05/11/14	Foxxie's Alt	
+Vmax	97	Necromancer	Member		07/20/14		Main		off	off	0		Main	
+Voluptua	26	Enchanter	Member	A	07/09/14		Vilmont's Alt		off	off	0		Vilmont's Alt	
+Vulack	100	Wizard	Member	A	07/30/14		Skourge's Alt		off	off	0		Skourge's Alt	
+Vyachek	90	Shaman	Member		07/22/14		Main		on	off	13834	05/27/14	Main	
+Vyae	80	Necromancer	Member	A	07/24/14		Quickquack's Alt		off	off	0		Quickquack's Alt	
+Wahldodar	100	Warrior	Senior Officer		07/29/14		Main, T2b, Recruitment, Obi-Wan Kenobi to all wayward warriors		off	off	69278	07/23/14	Main, T2b, Recruitment, Obi-Wan Kenobi to all wayward warriors	
+Warana	81	Shaman	Member	A	06/08/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Wareice	96	Shadow Knight	Member	A	06/28/14		Villor's Alt		off	off	0		Villor's Alt	
+Warlow	100	Cleric	Member	A	07/28/14	Grand Guild Hall	Gargonaut's Buffbot		off	off	0		Gargonaut's Buffbot	
+Wars	100	Warrior	Raider		07/29/14		Main, T2b, dragons petition about him		on	on	0		Main, T2b, dragons petition about him	
+Wendyyen	100	Magician	Raider		07/14/14		Main, T2, master summoner		on	on	0		Main, T2, master summoner	
+Wenglaiel	91	Ranger	Member	A	07/14/14		Cenglagar's Alt		off	off	0		Cenglagar's Alt	
+Wenwen	100	Druid	Member		07/29/14		Main, T2		off	off	108974	07/11/14	Main, T2	
+Wilnil	100	Paladin	Member	A	05/20/14		Tantrasil's Alt		off	off	0		Tantrasil's Alt	
+Windiin	97	Magician	Member		07/30/14		Main		off	off	0		Main	
+Wittlebeanz	76	Shadow Knight	Member		07/22/14		Main		off	off	0		Main	
+Woaden	91	Druid	Recruit/family		07/29/14		Main, Started Trial 7/10/14		off	off	0		Main, Started Trial 7/10/14	
+Wolfcaller	89	Shaman	Recruit/family	A	07/29/14		Fierced's Alt, Started Trial 6/19/14		off	off	26652	07/19/14	Fierced's Alt, Started Trial 6/19/14	
+Wondorie	88	Enchanter	Member	A	07/20/14		Kekor's Alt		off	off	0		Kekor's Alt	
+Wongadil	91	Ranger	Member	A	07/14/14		Cenglagar's Alt		off	off	0		Cenglagar's Alt	
+Woopenyobutt	98	Beastlord	Member		06/30/14		Main, does kick a lot of butt		off	off	0		Main, does kick a lot of butt	
+Wothan	91	Ranger	Member	A	07/14/14		Cenglagar's Alt		off	off	0		Cenglagar's Alt	
+Xahn	100	Necromancer	Senior Officer	A	06/20/14		Gargonaut's Alt		off	off	0		Gargonaut's Alt	
+Xaries	100	Druid	Member		07/28/14	Grand Guild Hall	Main		off	off	0		Main	
+Xartsis	86	Shadow Knight	Recruit/family		07/06/14		Main, Started Trial 7/2/14		off	off	0		Main, Started Trial 7/2/14	
+Xedd	100	Shadow Knight	Member		05/20/14		Main		off	off	0		Main	
+Xianeses	85	Enchanter	Member	A	07/29/14		Stedd's Alt		off	off	0		Stedd's Alt	
+Xyphon	100	Necromancer	Member		06/21/14		Main, doesn't ride a horse		on	off	88906	06/06/14	Main, doesn't ride a horse	
+Xyrhanna	100	Shadow Knight	Raider		07/29/14		Main, T2b		on	on	97364	07/13/14	Main, T2b	
+Xzartanxablix	47	Shadow Knight	Member		06/06/14		Main		off	off	0		Main	
+Xzeffo	100	Rogue	Member		07/28/14		Main, Greenhouse expert		off	off	49830	07/03/14	Main, Greenhouse expert	
+Yarr	100	Wizard	Member	A	06/17/14		Sewolf's Alt		off	off	0		Sewolf's Alt	
+Yoohoo	99	Shadow Knight	Member		07/30/14		Main		off	off	0		Main	
+Yugen	60	Enchanter	Recruit/family		07/30/14	The Guild Lobby	Main, Started Trial 7/27/14		off	off	0		Main, Started Trial 7/27/14	
+Zaaraa	38	Druid	Member	A	06/22/14		Twiizted's Alt		off	off	0		Twiizted's Alt	
+Zaphelion	94	Wizard	Member	A	07/06/14		Grottnik's Alt		off	off	16940	07/04/14	Grottnik's Alt	
+Zariela	20	Necromancer	Member	A	07/01/14		Aradea's Alt		off	off	0		Aradea's Alt	
+Zartog	100	Necromancer	Member		07/30/14		Main		off	off	0		Main	
+Zeruindar	96	Ranger	Member		06/02/14		Main		on	off	0		Main	
+Zibs	100	Berserker	Member		07/29/14		Main, T2		off	off	18395	06/10/14	Main, T2	
+Zlatux	100	Shadow Knight	Member		07/23/14		Main		off	off	0		Main	
+Zodgrim	92	Magician	Member		06/16/14		Main		off	off	0		Main	
+Zoratham	100	Cleric	Member		07/18/14		Main		off	off	0		Main	
+Zzynik	100	Magician	Member		07/20/14		Main, T2, Goodyear Gnome		on	off	28951	06/27/14	Main, T2, Goodyear Gnome	

@@ -535,36 +535,36 @@ public class DiceMonitor extends javax.swing.JFrame {
 
         if (botMode && sLower.contains("#") && (sLower.contains(" -> ") || sLower.contains(" tells you"))) {
             String name = s.split(" ")[5];
-
-            String ret = "/tell " + name + " ";
-
-            if (name.equals("You")) {
-                ret = CHANNEL;
-            }
             
-            if (sLower.contains("#white")) {
-                buildWhiteList();
-            }
-                
-            if (sLower.contains("#dkp")) {
-                ret += "Current DKP: " + sql.getDKP(name) + ". ";
-            }
-            if (sLower.contains("#ra") || sLower.contains("#att") || sLower.contains("#raidatt")) {
-                ret += "RA: " + sql.getRA(name, SQL.DAYS_30) + "%. ";
-            }
-            if (sLower.contains("#reset")) {
-                Auctions.reset();
-                reset();
-                resetRaidbot(name);
-            }
-           
-            if (sLower.contains("#echo")) {
-                sendToEQ(s.substring(s.indexOf("#echo") + 5).replaceAll("\'", ""));
-            }
-            if (!ret.equals("/tell " + name + " ")) {
-                sendToEQ(ret);
+                String ret = "/tell " + name + " ";
 
-                System.out.println(ret);
+                if (name.equals("You")) {
+                ret = CHANNEL;
+             }
+            
+              if (sLower.contains("#white")) {
+                buildWhiteList();
+               }
+              
+               if (sLower.contains("#dkp")) {
+                ret += "Current DKP: " + sql.getDKP(name) + ". ";
+               }
+               if (sLower.contains("#ra") || sLower.contains("#att") || sLower.contains("#raidatt")) {
+                   ret += "RA: " + sql.getRA(name, SQL.DAYS_30) + "%. ";
+              }
+               if (sLower.contains("#reset")) {
+                  Auctions.reset();
+                 reset();
+                   resetRaidbot(name);
+                }
+           
+             if (sLower.contains("#echo")) {
+                 sendToEQ(s.substring(s.indexOf("#echo") + 5).replaceAll("\'", ""));
+                }
+                if (!ret.equals("/tell " + name + " ")) {
+                   sendToEQ(ret);
+
+                  System.out.println(ret);
 
                 return;
             }
@@ -600,6 +600,7 @@ public class DiceMonitor extends javax.swing.JFrame {
             for (String s : lines) {
                 String[] str = s.split("\t");
                 String name = str[0];
+                System.out.println(name);
                 Data.whitelist.addEntry(name);
 
                 
