@@ -178,7 +178,7 @@ public class Auctions {
 
                     // Declare the winners
                     for (int i = 0; i < numberOfItems; i++) {
-
+                        
                         // Loop through all potential winners until a bid is found that is valid
                         while ((winner = getNextWinner()) != null) {
                             name = winner.select("Name");
@@ -187,7 +187,7 @@ public class Auctions {
 
                             int bidCheck = Integer.parseInt(winner.select("Bid"));
                             int availableDKP = auctionSQL.getDKP(name);
-
+                            
                             if (bidCheck > availableDKP) {
                                 EverQuest.sendTell(name, "You cannot afford to bid that much. You only have [" + availableDKP + "] DKP");
                                 auctions.removeEntry(name);

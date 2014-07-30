@@ -12,6 +12,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Date;
+import test.TestCases;
  
 /**
  * DbManager hosts all connections to the SQL Database hosted online
@@ -355,6 +356,9 @@ public class SQL {
      * @return 
      */
     public int getRA(String name, long timeAgo) {
+        if (EverQuest.isTesting)
+            return 100;
+        
         long cutoffTime = (new Date().getTime() / 1000) - timeAgo;
         
         int totalRaids = getTotalRaids(cutoffTime);
@@ -416,6 +420,10 @@ public class SQL {
     public int getDKP(String name) {
         int dkp = 0;
         
+        if (EverQuest.isTesting) {
+            return name.length()*10;
+        }
+        
         dkp += getRaidValue(SQL.getAlias(name));
         dkp -= getItemValue(SQL.getAlias(name));
         
@@ -447,6 +455,9 @@ public class SQL {
      * @return 
      */
     public int getDaysSinceLastWonItem(String name) {
+        if (EverQuest.isTesting)
+            return 1;
+        
         int id = getID(SQL.getAlias(name));
         
         String qry = "SELECT MAX(item_date) FROM eqdkp20_items WHERE member_id = " + id + ";";
@@ -742,6 +753,9 @@ public class SQL {
      * Creates a connection with the MySQL Database.
      */
     private void createConnection() {
+        if (EverQuest.isTesting)
+            return;
+        
         try {
             // If the connection is still alive but NOT valid
             if (connection != null && !connection.isValid(1)) {
@@ -771,6 +785,9 @@ public class SQL {
     }
     
     public void closeConnection() {
+        if (EverQuest.isTesting)
+            return;
+        
         try {
             if (connection != null) {
                 connection.close();
@@ -782,6 +799,11 @@ public class SQL {
     }
     
     public void runSqlStatement(String string) {
+        if (EverQuest.isTesting) {
+            TestCases.log(string);
+            return;
+        }
+        
         createConnection();
         
         System.out.println("SQL STM: ["+string+"]");
@@ -798,6 +820,11 @@ public class SQL {
     }
  
     public String runSqlQuery(String string) {
+        if (EverQuest.isTesting) {
+            TestCases.log(string);
+            return "";
+        }
+        
         createConnection();
         
         String result = "";

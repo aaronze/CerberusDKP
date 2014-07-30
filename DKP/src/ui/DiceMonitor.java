@@ -1,17 +1,11 @@
 package ui;
 
 import java.io.PrintWriter;
-import java.io.ByteArrayOutputStream;
-import java.io.FileOutputStream;
 import bot.Auctions;
 import bot.DiceRolls;
 import database.Cache;
 import deprecated.MainMenu;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.UnsupportedEncodingException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -26,7 +20,7 @@ import util.SQL;
  * @author Aaron
  */
 public class DiceMonitor extends javax.swing.JFrame {
-    public static final String VERSION = "1.18";
+    public static final String VERSION = "1.2";
     
     public static DiceMonitor diceMonitor;
     public static File parseLog = new File("C:\\Program Files (x86)\\Sony\\Everquest\\Logs\\eqlog_Raidbot_vox.txt");

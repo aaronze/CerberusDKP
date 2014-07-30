@@ -14,6 +14,7 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import secure.Account;
 import deprecated.MainMenu;
+import test.TestCases;
 
 /**
  * Plug for EverQuest functions.
@@ -62,7 +63,7 @@ public class EverQuest {
             String s = "";
             for (String line : lines)
                 s += line;
-            System.out.println(s);
+            TestCases.log(s);
             return;
         }
         
