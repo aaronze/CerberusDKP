@@ -11,6 +11,7 @@ import deprecated.MainMenu;
  * @author Aaron
  */
 public class Data {
+    public static Table whitelist;
     public static Table alias;
     public static Table users;
     public static Table preferences;
@@ -22,6 +23,11 @@ public class Data {
         if ((alias = Database.getTable("alias")) == null) {
             alias = Database.addTable("alias");
             alias.addRows("Alias", "Name");
+        }
+        
+        if ((alias = Database.getTable("whitelist")) == null) {
+            alias = Database.addTable("whitelist");
+            alias.addRows("Name");
         }
         
         if ((users = Database.getTable("users")) == null) {

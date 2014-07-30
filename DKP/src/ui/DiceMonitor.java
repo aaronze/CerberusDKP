@@ -541,6 +541,11 @@ public class DiceMonitor extends javax.swing.JFrame {
             if (name.equals("You")) {
                 ret = CHANNEL;
             }
+            
+            if (sLower.contains("#white")) {
+                buildWhiteList();
+            }
+                
             if (sLower.contains("#dkp")) {
                 ret += "Current DKP: " + sql.getDKP(name) + ". ";
             }
@@ -570,6 +575,40 @@ public class DiceMonitor extends javax.swing.JFrame {
             if (str[6].equals("tells") && str[7].equals("you,"))
                 MainMenu.getSession(str[5]).parse(s.substring(s.indexOf("tells you")+12, s.length()-1));
         }
+    }
+    
+    
+    public static void buildWhiteList() {
+        EverQuest.guildDump();
+        
+        ArrayList<String> names = new ArrayList<>();
+        try {
+            Thread.sleep(1000);
+            
+            BufferedReader reader = new BufferedReader(new FileReader(new File("dump.txt")));
+
+            String line;
+
+            ArrayList<String> lines = new ArrayList<>();
+            ArrayList<String> zones = new ArrayList<>();
+            ArrayList<Integer> count = new ArrayList<>();
+
+            while ((line = reader.readLine()) != null) {
+                lines.add(line);
+            }
+
+            for (String s : lines) {
+                String[] str = s.split("\t");
+                String name = str[0];
+                Data.whitelist.addEntry(name);
+
+                
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        
+       
     }
 
     public static boolean isNumeric(String str) {
