@@ -154,7 +154,8 @@ public class Auctions {
                         strSendTells += numberOfItems + "x ";
                     }
 
-                    inspectItem();
+                    if (!EverQuest.isTesting)
+                        inspectItem();
 
                     sendToEQ(strSendTells, "<LINK ITEM>" + itemName, ", 1 - " + MAXIMUM_BID + " DKP. " + (AUCTION_INTERVAL * 3) + " Seconds");
                     sleep(AUCTION_INTERVAL * 1000);
@@ -168,7 +169,7 @@ public class Auctions {
                     sendToEQ(strSendTells, "<LINK ITEM>" + itemName, ", 1 - " + MAXIMUM_BID + " DKP. Closed");
 
                     while (getTimeInSeconds() < getCutoffTime()) {
-                        sleep(500);
+                        sleep(200);
                     }
 
                     Table winner = null;
@@ -178,7 +179,6 @@ public class Auctions {
 
                     // Declare the winners
                     for (int i = 0; i < numberOfItems; i++) {
-
                         // Loop through all potential winners until a bid is found that is valid
                         while ((winner = getNextWinner()) != null) {
                             name = winner.select("Name");
@@ -187,7 +187,6 @@ public class Auctions {
 
                             int bidCheck = Integer.parseInt(winner.select("Bid"));
                             int availableDKP = auctionSQL.getDKP(name);
-
                             if (bidCheck > availableDKP) {
                                 EverQuest.sendTell(name, "You cannot afford to bid that much. You only have [" + availableDKP + "] DKP");
                                 auctions.removeEntry(name);
@@ -227,7 +226,8 @@ public class Auctions {
                         auctions.removeEntry(name);
                     }
 
-                    closeItem();
+                    if (!EverQuest.isTesting)
+                        closeItem();
 
                     DiceMonitor.isBidding = false;
                 } catch (Exception e) {
@@ -263,7 +263,7 @@ public class Auctions {
         }
 
         // Add to the cutoff time enough time to process this bid
-        setCutoffTime(getTimeInSeconds() + 6);
+        setCutoffTime(getTimeInSeconds() + 1);
 
         // If player is at 4 tells, warn them they will be ignored next tell
         if (recievedTells == 4) {
