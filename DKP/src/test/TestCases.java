@@ -49,7 +49,7 @@ public class TestCases {
         logger.clear();
         Auctions.startAuction("test", 1);
         Auctions.placeBid("TestPlayer", 1);
-        waitForTime(10);
+        waitForTime(4);
         numberOfTests++;
         String winner = getLastLog();
         if (winner == null) {
@@ -67,7 +67,7 @@ public class TestCases {
         Auctions.startAuction("test", 1);
         Auctions.placeBid("TestPlayer1", 5);
         Auctions.placeBid("TestPlayer2", 10);
-        waitForTime(10);
+        waitForTime(4);
         numberOfTests++;
         winner = getLastLog();
         if (winner == null) {
@@ -85,7 +85,7 @@ public class TestCases {
         Auctions.startAuction("test", 1);
         Auctions.placeBid("TestPlayer1", 10);
         Auctions.placeBid("TestPlayer2", 10);
-        waitForTime(10);
+        waitForTime(4);
         numberOfTests++;
         winner = getLastLog();
         if (winner == null) {
@@ -100,7 +100,7 @@ public class TestCases {
         logger.clear();
         Auctions.startAuction("test'd", 1);
         Auctions.placeBid("TestPlayer1", 10);
-        waitForTime(10);
+        waitForTime(4);
         numberOfTests++;
         winner = getLastLog();
         if (winner == null) {
@@ -115,7 +115,7 @@ public class TestCases {
         logger.clear();
         Auctions.startAuction("test, testing the tests", 1);
         Auctions.placeBid("TestPlayer1", 10);
-        waitForTime(10);
+        waitForTime(4);
         numberOfTests++;
         winner = getLastLog();
         if (winner == null) {
@@ -130,7 +130,7 @@ public class TestCases {
         logger.clear();
         Auctions.startAuction("test (the test)", 1);
         Auctions.placeBid("TestPlayer1", 10);
-        waitForTime(10);
+        waitForTime(4);
         numberOfTests++;
         winner = getLastLog();
         if (winner == null) {
@@ -144,13 +144,28 @@ public class TestCases {
         // Test single auction with no bids
         logger.clear();
         Auctions.startAuction("test", 1);
-        waitForTime(10);
+        waitForTime(4);
         numberOfTests++;
         winner = getLastLog();
         if (winner == null) {
             reportFailure("No bids should still declare no bids");
         } else if (!winner.toLowerCase().contains("no bids")) {
             reportFailure("A bid was found when no bids was expected: " + winner);
+        } else {
+            testsPassed++;
+        }
+        
+        // Test single auction with invalid bid
+        logger.clear();
+        Auctions.startAuction("test", 1);
+        Auctions.placeBid("a", 45);
+        waitForTime(4);
+        numberOfTests++;
+        winner = getLastLog();
+        if (winner == null) {
+            reportFailure("No bids should still declare no bids");
+        } else if (!winner.toLowerCase().contains("no bids")) {
+            reportFailure("An invalid bid was found when no bids was expected: " + winner);
         } else {
             testsPassed++;
         }

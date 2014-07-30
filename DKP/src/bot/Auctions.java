@@ -169,7 +169,7 @@ public class Auctions {
                     sendToEQ(strSendTells, "<LINK ITEM>" + itemName, ", 1 - " + MAXIMUM_BID + " DKP. Closed");
 
                     while (getTimeInSeconds() < getCutoffTime()) {
-                        sleep(500);
+                        sleep(200);
                         System.out.println("here");
                     }
 
