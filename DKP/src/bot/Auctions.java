@@ -170,7 +170,6 @@ public class Auctions {
 
                     while (getTimeInSeconds() < getCutoffTime()) {
                         sleep(200);
-                        System.out.println("here");
                     }
 
                     Table winner = null;
