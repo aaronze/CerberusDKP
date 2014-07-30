@@ -96,6 +96,65 @@ public class TestCases {
             testsPassed++;
         }
         
+        // Test single auction with odd naming including '
+        logger.clear();
+        Auctions.startAuction("test'd", 1);
+        Auctions.placeBid("TestPlayer1", 10);
+        waitForTime(10);
+        numberOfTests++;
+        winner = getLastLog();
+        if (winner == null) {
+            reportFailure("No winners found");
+        } else if (!winner.contains("test'd")) {
+            reportFailure("Item with odd name failed: " + winner);
+        } else {
+            testsPassed++;
+        }
+        
+        // Test single auction with odd naming including ,
+        logger.clear();
+        Auctions.startAuction("test, testing the tests", 1);
+        Auctions.placeBid("TestPlayer1", 10);
+        waitForTime(10);
+        numberOfTests++;
+        winner = getLastLog();
+        if (winner == null) {
+            reportFailure("No winners found");
+        } else if (!winner.contains("test, testing the tests")) {
+            reportFailure("Item with odd name failed: " + winner);
+        } else {
+            testsPassed++;
+        }
+        
+        // Test single auction with odd naming including ( and )
+        logger.clear();
+        Auctions.startAuction("test (the test)", 1);
+        Auctions.placeBid("TestPlayer1", 10);
+        waitForTime(10);
+        numberOfTests++;
+        winner = getLastLog();
+        if (winner == null) {
+            reportFailure("No winners found");
+        } else if (!winner.contains("test (the test)")) {
+            reportFailure("Item with odd name failed: " + winner);
+        } else {
+            testsPassed++;
+        }
+        
+        // Test single auction with no bids
+        logger.clear();
+        Auctions.startAuction("test", 1);
+        waitForTime(10);
+        numberOfTests++;
+        winner = getLastLog();
+        if (winner == null) {
+            reportFailure("No bids should still declare no bids");
+        } else if (!winner.toLowerCase().contains("no bids")) {
+            reportFailure("A bid was found when no bids was expected: " + winner);
+        } else {
+            testsPassed++;
+        }
+        
         // Tally the tests
         System.out.println("Auction Tests Passed: " + testsPassed + " / " + numberOfTests);
         printReport();
