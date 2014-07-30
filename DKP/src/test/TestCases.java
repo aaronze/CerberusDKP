@@ -155,6 +155,23 @@ public class TestCases {
             testsPassed++;
         }
         
+        // Test single auction with invalid bids
+        logger.clear();
+        Auctions.startAuction("test", 1);
+        Auctions.placeBid("TestPlayer1", 0);
+        Auctions.placeBid("TestPlayer2", -5);
+        Auctions.placeBid("TestPlayer3", Auctions.MAXIMUM_BID+1);
+        waitForTime(4);
+        numberOfTests++;
+        winner = getLastLog();
+        if (winner == null) {
+            reportFailure("No bids should still declare no bids");
+        } else if (!winner.toLowerCase().contains("no bids")) {
+            reportFailure("A bid was found when no bids was expected: " + winner);
+        } else {
+            testsPassed++;
+        }
+        
         // Test single auction with invalid bid
         logger.clear();
         Auctions.startAuction("test", 1);
@@ -260,6 +277,26 @@ public class TestCases {
             } else {
                 reportFailure("Expected both players to win, found: " + first + ", and: " + second);
             }
+        }
+        
+        // Test multiple auctions with highest bid invalid
+        logger.clear();
+        Auctions.startAuction("test", 2);
+        Auctions.placeBid("TestPlayer1", 1);
+        Auctions.placeBid("TestPlayer2", 2);
+        Auctions.placeBid("a", 45);
+        waitForTime(4);
+        numberOfTests++;
+        second = logger.get(logger.size()-1);
+        first = logger.get(logger.size()-2);
+        if (first == null || second == null) {
+            reportFailure("Winners were not found");
+        } else if (!first.contains("TestPlayer2")) {
+            reportFailure("Expected TestPlayer2, Found: " + first);
+        } else if (!second.contains("TestPlayer1")) {
+            reportFailure("Expected TestPlayer1, Found: " + second);
+        } else {
+            testsPassed++;
         }
         
         // Tally the tests
