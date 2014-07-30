@@ -170,6 +170,41 @@ public class TestCases {
             testsPassed++;
         }
         
+        // Test single auction with multiple invalid bids
+        logger.clear();
+        Auctions.startAuction("test", 1);
+        Auctions.placeBid("a", 45);
+        Auctions.placeBid("b", 40);
+        Auctions.placeBid("c", 40);
+        Auctions.placeBid("d", 35);
+        waitForTime(4);
+        numberOfTests++;
+        winner = getLastLog();
+        if (winner == null) {
+            reportFailure("No bids should still declare no bids");
+        } else if (!winner.toLowerCase().contains("no bids")) {
+            reportFailure("An invalid bid was found when no bids was expected: " + winner);
+        } else {
+            testsPassed++;
+        }
+        
+        // Test multiple auctions with no bids
+        logger.clear();
+        Auctions.startAuction("test", 2);
+        waitForTime(4);
+        numberOfTests++;
+        String second = logger.get(logger.size()-2);
+        String first = logger.get(logger.size()-1);
+        if (first == null || second == null) {
+            reportFailure("No bids should still declare no bids");
+        } else if (!first.toLowerCase().contains("no bids")) {
+            reportFailure("No bid was made yet one was found: " + first);
+        } else if (!second.toLowerCase().contains("no bids")) {
+            reportFailure("No bid was made yet one was found: " + second);
+        } else {
+            testsPassed++;
+        }
+        
         // Tally the tests
         System.out.println("Auction Tests Passed: " + testsPassed + " / " + numberOfTests);
         printReport();
