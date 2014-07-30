@@ -51,7 +51,7 @@ public class TestCases {
         Auctions.placeBid("TestPlayer", 1);
         waitForTime(10);
         numberOfTests++;
-        String winner = logger.get(logger.size()-1);
+        String winner = getLastLog();
         if (winner == null) {
             reportFailure("No winners found");
         } else if (!winner.contains("TestPlayer")) {
@@ -62,9 +62,43 @@ public class TestCases {
             testsPassed++;
         }
         
+        // Test single auction with two valid bids with standard naming
+        logger.clear();
+        Auctions.startAuction("test", 1);
+        Auctions.placeBid("TestPlayer1", 5);
+        Auctions.placeBid("TestPlayer2", 10);
+        waitForTime(10);
+        numberOfTests++;
+        winner = getLastLog();
+        if (winner == null) {
+            reportFailure("No winners found");
+        } else if (!winner.contains("TestPlayer2")) {
+            reportFailure("Wrong winner. Expected: TestPlayer2, Found: " + winner);
+        } else if (!winner.contains("10 DKP")) {
+            reportFailure("Winner has the wrong bid amount. Expected: 10, Found: " + winner);
+        } else {
+            testsPassed++;
+        }
+        
+        // Test single auction with two equal valid bids with standard naming
+        logger.clear();
+        Auctions.startAuction("test", 1);
+        Auctions.placeBid("TestPlayer1", 10);
+        Auctions.placeBid("TestPlayer2", 10);
+        waitForTime(10);
+        numberOfTests++;
+        winner = getLastLog();
+        if (winner == null) {
+            reportFailure("No winners found");
+        } else if (!winner.contains("roll")) {
+            reportFailure("Winners did not tie and roll");
+        } else {
+            testsPassed++;
+        }
+        
         // Tally the tests
         System.out.println("Auction Tests Passed: " + testsPassed + " / " + numberOfTests);
-        
+        printReport();
     }
     
     private static void reportFailure(String message) {
@@ -74,17 +108,28 @@ public class TestCases {
     }
     
     private static void reportStackTrace(Exception e) {
-        String s = "";
-        for (StackTraceElement ste : e.getStackTrace()) {
-            s += ste.toString();
-        }
-        report.add(s);
+        report.add(e.getStackTrace()[1].toString());
     }
     
     private static void printReport() {
+        System.out.println("-------------------------");
+        System.out.println("BEGIN REPORT");
+        System.out.println("-------------------------");
+        
         for (String s : report) {
             System.out.println(s);
         }
+        
+        if (report.isEmpty()) {
+            System.out.println();
+            System.out.println("ALL TESTS COMPLETED SUCCESSFULLY");
+            System.out.println();
+        }
+        
+        System.out.println("-------------------------");
+        System.out.println("END REPORT");
+        System.out.println("-------------------------");
+        
         report.clear();
     }
     
@@ -99,5 +144,9 @@ public class TestCases {
     public static void log(String s) {
         logger.add(s);
         System.out.println("> " + s);
+    }
+    
+    public static String getLastLog() {
+        return logger.get(logger.size()-1);
     }
 }
