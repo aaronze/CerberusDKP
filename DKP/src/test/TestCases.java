@@ -193,8 +193,8 @@ public class TestCases {
         Auctions.startAuction("test", 2);
         waitForTime(4);
         numberOfTests++;
-        String second = logger.get(logger.size()-2);
-        String first = logger.get(logger.size()-1);
+        String second = logger.get(logger.size()-1);
+        String first = logger.get(logger.size()-2);
         if (first == null || second == null) {
             reportFailure("No bids should still declare no bids");
         } else if (!first.toLowerCase().contains("no bids")) {
@@ -203,6 +203,63 @@ public class TestCases {
             reportFailure("No bid was made yet one was found: " + second);
         } else {
             testsPassed++;
+        }
+        
+        // Test multiple auctions with one bid
+        logger.clear();
+        Auctions.startAuction("test", 2);
+        Auctions.placeBid("TestPlayer1", 1);
+        waitForTime(4);
+        numberOfTests++;
+        second = logger.get(logger.size()-1);
+        first = logger.get(logger.size()-2);
+        if (first == null || second == null) {
+            reportFailure("No bids should still declare no bids or winner was not found");
+        } else if (!first.contains("TestPlayer1")) {
+            reportFailure("Expected TestPlayer1, Found: " + first);
+        } else if (!second.toLowerCase().contains("no bids")) {
+            reportFailure("No bid was made yet one was found: " + second);
+        } else {
+            testsPassed++;
+        }
+        
+        // Test multiple auctions with two different bids
+        logger.clear();
+        Auctions.startAuction("test", 2);
+        Auctions.placeBid("TestPlayer1", 1);
+        Auctions.placeBid("TestPlayer2", 2);
+        waitForTime(4);
+        numberOfTests++;
+        second = logger.get(logger.size()-1);
+        first = logger.get(logger.size()-2);
+        if (first == null || second == null) {
+            reportFailure("No bids should still declare no bids or winner was not found");
+        } else if (!first.contains("TestPlayer2")) {
+            reportFailure("Expected TestPlayer2, Found: " + first);
+        } else if (!second.contains("TestPlayer1")) {
+            reportFailure("Expected TestPlayer1, Found: " + second);
+        } else {
+            testsPassed++;
+        }
+        
+        // Test multiple auctions with two equal bids
+        logger.clear();
+        Auctions.startAuction("test", 2);
+        Auctions.placeBid("TestPlayer1", 1);
+        Auctions.placeBid("TestPlayer2", 1);
+        waitForTime(4);
+        numberOfTests++;
+        second = logger.get(logger.size()-1);
+        first = logger.get(logger.size()-2);
+        if (first == null || second == null) {
+            reportFailure("No bids should still declare no bids or winner was not found");
+        } else {
+            if ((first.contains("TestPlayer1") && second.contains("TestPlayer2")) 
+                    || (first.contains("TestPlayer2") && second.contains("TestPlayer1"))) {
+                testsPassed++;
+            } else {
+                reportFailure("Expected both players to win, found: " + first + ", and: " + second);
+            }
         }
         
         // Tally the tests
