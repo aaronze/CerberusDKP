@@ -25,9 +25,9 @@ public class Data {
             alias.addRows("Alias", "Name");
         }
         
-        if ((alias = Database.getTable("whitelist")) == null) {
-            alias = Database.addTable("whitelist");
-            alias.addRows("Name");
+        if ((whitelist = Database.getTable("whitelist")) == null) {
+            whitelist = Database.addTable("whitelist");
+            whitelist.addRows("Name");
         }
         
         if ((users = Database.getTable("users")) == null) {
