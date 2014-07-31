@@ -163,7 +163,7 @@ Epipelagic	52	Warrior	Member	A	07/12/14		Blumpkin's Alt		off	off	0		Blumpkin's A
 Ermahgerdd	18	Warrior	Member	A	05/09/14		Vilmont's Alt		off	off	0		Vilmont's Alt	
 Etheria	95	Enchanter	Recruit/family		07/29/14		Main, Started Trial 7/12/14		off	off	0		Main, Started Trial 7/12/14	
 Eudar	100	Magician	Member	A	06/28/14		Chalupabatman's Alt		off	off	0		Chalupabatman's Alt	
-Evian	100	Monk	Raider		07/30/14	Nagafen's Lair	Main, T2b, AKA ducktape artist		on	on	113772	05/27/14	Main, T2b, AKA ducktape artist	
+Evian	100	Monk	Raider		07/30/14	Plane of Fear	Main, T2b, AKA ducktape artist		on	on	113772	05/27/14	Main, T2b, AKA ducktape artist	
 Eviltimez	63	Magician	Member	A	05/12/14		Dirtydeedz's Alt		off	off	0		Dirtydeedz's Alt	
 Eximious	60	Shaman	Member	A	05/14/14		Creek's Alt		off	off	0		Creek's Alt	
 Fairypants	85	Magician	Member	A	07/01/14		Argent's alt		off	off	0		Argent's alt	
@@ -272,20 +272,20 @@ Kaylle	87	Shaman	Member	A	06/09/14		Nydia's Alt		off	off	0		Nydia's Alt
 Kebonsat	85	Beastlord	Recruit/family		07/30/14		Main, Started Trial 7/19/14		off	off	0		Main, Started Trial 7/19/14	
 Kees	79	Necromancer	Member		07/27/14		Main		off	off	0		Main	
 Kekor	100	Beastlord	Member		07/25/14		Main, don't pet his warder		off	off	0		Main, don't pet his warder	
-Kempel	90	Monk	Member		07/30/14	Plane of Time	Main		off	off	0		Main	
+Kempel	90	Monk	Member		07/30/14	Oceangreen Hills	Main		off	off	0		Main	
 Kenpachii	100	Berserker	Member		07/30/14		Main		off	off	0		Main	
 Khatrak	37	Monk	Member	A	06/08/14		Drakthar's Alt		off	off	0		Drakthar's Alt	
-Khrizen	50	Ranger	Officer		07/30/14	Nagafen's Lair	Main, T2b		on	on	2235356	07/29/14	Main, T2b	
+Khrizen	100	Ranger	Officer		07/30/14	Plane of Fear	Main, T2b		on	on	2235356	07/29/14	Main, T2b	
 Kikkazz	100	Shadow Knight	Raider		07/28/14		Main, T2, Still Being Saved by Paladin		off	off	0		Main, T2, Still Being Saved by Paladin	
 Kikrabur	14	Shadow Knight	Member	A	07/01/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
 Kinluan	77	Druid	Recruit/family		07/11/14		Main, Started Trial 7/1/14		off	off	0		Main, Started Trial 7/1/14	
 Kirtas	60	Ranger	Member	A	07/01/14		Satrik's alt		off	off	0		Satrik's alt	
-Kisokally	100	Paladin	Co-Leader		07/30/14	Nagafen's Lair	Main, T2b, Frodo's gardener		on	on	36901	06/21/14	Main, T2b, Frodo's gardener	
+Kisokally	100	Paladin	Co-Leader		07/30/14	Plane of Fear	Main, T2b, Frodo's gardener		on	on	36901	06/21/14	Main, T2b, Frodo's gardener	
 Kisokeric	100	Cleric	Officer	A	07/29/14		Kisokally's Alt, T2b		off	off	0		Kisokally's Alt, T2b	
 Klauss	100	Shadow Knight	Member		06/09/14		Main		on	off	0		Main	
 Klinko	100	Cleric	Member	A	07/22/14		YooHoo's Alt, T2		off	off	0		YooHoo's Alt, T2	
 Komi	82	Monk	Member	A	07/29/14		Ragnoruuk's alt		off	off	0		Ragnoruuk's alt	
-Komplex	100	Shaman	Member		07/30/14	Blightfire Moors	Main		off	off	0		Main	
+Komplex	100	Shaman	Member		07/30/14	Natimbi, The Broken Shores	Main		off	off	0		Main	
 Kornelious	85	Magician	Recruit/family		05/30/14		Main, No application, Started Trial 6/14/14, 		off	off	0		Main, No application, Started Trial 6/14/14, 	
 Korrupt	83	Shadow Knight	Member	A	07/18/14		Quickquack's Alt		off	off	0		Quickquack's Alt	
 Kosik	78	Wizard	Member	A	07/23/14		Kisokally's Alt		off	off	0		Kisokally's Alt	
@@ -324,7 +324,7 @@ Lonthin	100	Druid	Officer		07/25/14		Main, T2b, Evil little druid		off	off	0		Ma
 Lostin	100	Shadow Knight	Raider		07/22/14		Main		on	off	10351	05/21/14	Main	
 Lyhallan	90	Necromancer	Member	A	07/26/14		Xyrhanna's Alt		off	off	187	07/14/14	Xyrhanna's Alt	
 Lyvaira	85	Shadow Knight	Member	A	07/01/14		Aradea's Alt		off	off	0		Aradea's Alt	
-Machomain	50	Monk	Raider		07/30/14	Nagafen's Lair	Main, T2b, Faux Hawk		off	off	24811	05/22/14	Main, T2b, Faux Hawk	
+Machomain	50	Monk	Raider		07/30/14	Plane of Fear	Main, T2b, Faux Hawk		off	off	24811	05/22/14	Main, T2b, Faux Hawk	
 Magdallen	70	Magician	Member	A	07/28/14		X ray alt		off	off	0		X ray alt	
 Magicl	99	Magician	Member		05/29/14		Main		off	off	0		Main	
 Magimorrowind	97	Wizard	Member		07/22/14		Main		off	off	0		Main	
@@ -366,7 +366,7 @@ Moretz	84	Magician	Member	A	07/30/14		Shallikir's Alt		off	off	0		Shallikir's Al
 Mormegil	52	Cleric	Member	A	07/01/14		Wahldodar's Alt		off	off	0		Wahldodar's Alt	
 Mortisha	100	Necromancer	Recruit/family		07/30/14		Main, Started Trial 7/10/14		off	off	0		Main, Started Trial 7/10/14	
 Mulva	100	Cleric	Recruit/family	A	07/30/14	Plane of War	Royy's alt / 7/4/14		off	off	0		Royy's alt / 7/4/14	
-Muzeek	100	Bard	Raider		07/30/14	Nagafen's Lair	Main, T2b		off	off	0		Main, T2b	
+Muzeek	100	Bard	Raider		07/30/14	Plane of Fear	Main, T2b		off	off	0		Main, T2b	
 Nalena	100	Magician	Raider		07/19/14		Main, T2b		on	off	0		Main, T2b	
 Nateynia	89	Druid	Member	A	06/09/14		Nydia's Alt		off	off	0		Nydia's Alt	
 Naturity	93	Druid	Member	A	07/18/14		Zoratham's Alt		off	off	0		Zoratham's Alt	
@@ -427,7 +427,7 @@ Qendader	90	Paladin	Member	A	07/29/14		Wahldodar's Alt		off	off	0		Wahldodar's A
 Qilion	100	Enchanter	Member		06/28/14		Main, T2, don't break his mez, you wouldn't like him if you break his mez		off	off	0		Main, T2, don't break his mez, you wouldn't like him if you break his mez	
 Quickquark	85	Enchanter	Member		05/30/14		Main		off	off	0		Main	
 Rada	100	Shadow Knight	Member		06/12/14		Main		off	off	0		Main	
-Ragbuke	100	Wizard	Member		07/29/14		Main		on	off	397906	07/26/14	Main	
+Ragbuke	100	Wizard	Member		07/30/14	Plane of Knowledge	Main		on	off	397906	07/26/14	Main	
 Ragnoruuk	100	Rogue	Raider		07/29/14		Main, T2		on	off	8870	06/04/14	Main, T2	
 Rahak	100	Shaman	Member	A	07/06/14		Cumber's Alt		off	off	0		Cumber's Alt	
 Raidbot	1	Shaman	Officer	A	06/27/14		Druad's Alt		off	off	0		Druad's Alt	
@@ -510,7 +510,7 @@ Shows	91	Necromancer	Member		07/16/14		Main		off	off	0		Main
 Shyklah	85	Beastlord	Member	A	07/23/14		Shik's Alt		off	off	0		Shik's Alt	
 Sicktoonz	95	Bard	Member	A	07/25/14		Kekor's Alt		off	off	0		Kekor's Alt	
 Sillka	84	Ranger	Officer	A	07/13/14		Foxxie's Alt		off	off	117	07/13/14	Foxxie's Alt	
-Silverclawz	100	Beastlord	Recruit/family		07/30/14	Nagafen's Lair	Main, No application,  Started Trial 7/28/14		off	off	0		Main, No application,  Started Trial 7/28/14	
+Silverclawz	50	Beastlord	Recruit/family		07/30/14	Plane of Fear	Main, No application,  Started Trial 7/28/14		off	off	0		Main, No application,  Started Trial 7/28/14	
 Silvermage	85	Magician	Member	A	06/19/14		Rullu's Alt		off	off	0		Rullu's Alt	
 Simia	100	Ranger	Member	A	05/30/14		Aradea's Alt		off	off	0		Aradea's Alt	
 Simmadown	76	Wizard	Officer	A	07/17/14		Mayfaire Alt		off	off	0		Mayfaire Alt	
@@ -664,7 +664,7 @@ Xzartanxablix	47	Shadow Knight	Member		06/06/14		Main		off	off	0		Main
 Xzeffo	100	Rogue	Member		07/28/14		Main, Greenhouse expert		off	off	49830	07/03/14	Main, Greenhouse expert	
 Yarr	100	Wizard	Member	A	06/17/14		Sewolf's Alt		off	off	0		Sewolf's Alt	
 Yoohoo	99	Shadow Knight	Member		07/30/14		Main		off	off	0		Main	
-Yugen	60	Enchanter	Recruit/family		07/30/14	The Guild Lobby	Main, Started Trial 7/27/14		off	off	0		Main, Started Trial 7/27/14	
+Yugen	60	Enchanter	Recruit/family		07/30/14	Plane of Knowledge	Main, Started Trial 7/27/14		off	off	0		Main, Started Trial 7/27/14	
 Zaaraa	38	Druid	Member	A	06/22/14		Twiizted's Alt		off	off	0		Twiizted's Alt	
 Zaphelion	94	Wizard	Member	A	07/06/14		Grottnik's Alt		off	off	16940	07/04/14	Grottnik's Alt	
 Zariela	20	Necromancer	Member	A	07/01/14		Aradea's Alt		off	off	0		Aradea's Alt	

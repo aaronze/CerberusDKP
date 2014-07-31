@@ -1,5 +1,7 @@
 package ui;
 
+import database.Database;
+import database.Table;
 import java.io.PrintWriter;
 import bot.Auctions;
 import bot.DiceRolls;
@@ -535,9 +537,19 @@ public class DiceMonitor extends javax.swing.JFrame {
 
         if (botMode && sLower.contains("#") && (sLower.contains(" -> ") || sLower.contains(" tells you"))) {
             String name = s.split(" ")[5];
-            
+            Table whitelist = Database.getTable("whitelist");
                 String ret = "/tell " + name + " ";
-
+                
+                //Adds someone to the whitelist once at a time after we give them the password
+                if (sLower.contains("#white")) {
+                Data.whitelist.addEntry(name);
+                }
+                //Initially creates the whitelist (should only be needed once)
+                if (sLower.contains("#whitebuild")) {
+                Data.whitelist.addEntry(name);
+                }
+                //Before running any functions that responds checks to see if the person it is responding to is on the whitelist
+            if (!whitelist.where("Name", name).isEmpty()) {
                 if (name.equals("You")) {
                 ret = CHANNEL;
              }
@@ -567,18 +579,24 @@ public class DiceMonitor extends javax.swing.JFrame {
                   System.out.println(ret);
 
                 return;
+                }
             }
         }
 
         if (botMode && !isBidding && (sLower.contains(" -> ") || sLower.contains(" tells you"))) {
             String[] str = s.split(" ");
+            Table whitelist = Database.getTable("whitelist");
+            String name = s.split(" ")[5];
+            //Checks whitelist before returning menu
+            if (!whitelist.where("Name", name).isEmpty()) {
             if (str[6].equals("tells") && str[7].equals("you,"))
                 MainMenu.getSession(str[5]).parse(s.substring(s.indexOf("tells you")+12, s.length()-1));
+            }
         }
     }
     
     
-    public static void buildWhiteList() {
+  public static void buildWhiteList() {
         EverQuest.guildDump();
         
         ArrayList<String> names = new ArrayList<>();
@@ -600,7 +618,6 @@ public class DiceMonitor extends javax.swing.JFrame {
             for (String s : lines) {
                 String[] str = s.split("\t");
                 String name = str[0];
-                System.out.println(name);
                 Data.whitelist.addEntry(name);
 
                 
