@@ -546,18 +546,13 @@ public class DiceMonitor extends javax.swing.JFrame {
                 }
                 //Initially creates the whitelist (should only be needed once)
                 if (sLower.contains("#whitebuild")) {
-                Data.whitelist.addEntry(name);
+                buildWhiteList();
                 }
                 //Before running any functions that responds checks to see if the person it is responding to is on the whitelist
             if (!whitelist.where("Name", name).isEmpty()) {
                 if (name.equals("You")) {
                 ret = CHANNEL;
-             }
-            
-              if (sLower.contains("#white")) {
-                buildWhiteList();
-               }
-              
+             }            
                if (sLower.contains("#dkp")) {
                 ret += "Current DKP: " + sql.getDKP(name) + ". ";
                }
