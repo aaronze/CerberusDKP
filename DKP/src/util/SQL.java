@@ -773,7 +773,7 @@ public class SQL {
             if (connection == null) {
                 String host = "jdbc:mysql://www.cerberusguild.com:3306/jenninna_dkp";
                 String username = "jenninna_druad";
-                String password = "druadp455";
+                String password = "P4rtyT1m3!";
                 String driver = "com.mysql.jdbc.Driver";
                 Class.forName(driver);
                 connection = DriverManager.getConnection(host, username, password);
